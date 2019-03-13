@@ -31,4 +31,4 @@ for i in range(segons):
 #end: create notification and play sound
 print('\n\n',action)
 subprocess.run(['notify-send',"ogame",action])
-subprocess.run(['mpv',"sound.mp3",action])
+subprocess.run(['mpv',"sound.mp3"])
