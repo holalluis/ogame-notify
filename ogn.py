@@ -1,9 +1,11 @@
 #!/usr/bin/python3
 '''
-  notify next action based on current resources, target and
-  production
+  notify helper for ogame.
+  notifies next action based on current resources,
+  target resources and production
 '''
 import math
+import platform
 import subprocess
 import sys
 import time
@@ -28,7 +30,15 @@ for i in range(segons):
   print("You have",tens,"/",preu,":",segons-i,"seconds...",end='\r')
   time.sleep(1)
 
-#end: create notification and play sound
-print('\n\n',action)
-subprocess.run(['notify-send',"ogame",action])
-subprocess.run(['mpv',"sound.mp3"])
+print('\n\nNext action:',action)
+
+#play sound
+subprocess.run(['mpv',"sound.mp3",'/dev/null'], capture_output=True)
+
+#create notification
+if platform.system()=='Darwin':
+  #OS X
+  subprocess.run(['osascript','-e', 'display notification "'+action+'" with title "ogame"'])
+else:
+  #Other
+  subprocess.run(['notify-send',"ogame",action])
