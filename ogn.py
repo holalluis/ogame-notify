@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 '''
   notify helper for ogame.
   notifies next action based on current resources,
@@ -27,7 +27,7 @@ segons=math.floor((preu-actual)/prod*3600); #seconds until next action
 #show continuous indication
 for i in range(segons):
   tens = math.floor(actual + i*prod/3600)
-  print("You have",tens,"/",preu,":",segons-i,"seconds...",end='\r')
+  print("Tens",tens,"/",preu,":",segons-i,"segons...",end='\r')
   time.sleep(1)
 
 print('\n\nNext action:',action)

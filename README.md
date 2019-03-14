@@ -1,7 +1,13 @@
 # ogame-notify
-notifier helper to plan building and investigation in the web based game "ogame"
+notifier helper to plan building and investigations
+for the web based game "ogame"
 
-## required:
+## packages required
 - python3
-- notify-send
+
+## optional (for notifications)
+- notify-send (linux)
+- osascript (mac os x)
+
+## optional (for sounds)
 - mpv
