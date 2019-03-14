@@ -27,7 +27,16 @@ segons=math.floor((preu-actual)/prod*3600); #seconds until next action
 #show continuous indication
 for i in range(segons):
   tens = math.floor(actual + i*prod/3600)
-  print("Tens",tens,"/",preu,":",segons-i,"segons...",end='\r')
+  queden_s = segons-i; #segons
+  queden_m = math.floor(queden_s/60) % 60;
+  queden_h = math.floor(queden_s/3600);
+
+  print("Tens ",tens,"/",preu,": falta ",
+    queden_h     ,"h ",
+    queden_m     ,"m ",
+    queden_s % 60,"s...",
+    sep='',
+    end='\r')
   time.sleep(1)
 
 print('\n\nNext action:',action)
