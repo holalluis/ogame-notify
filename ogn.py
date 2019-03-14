@@ -12,14 +12,14 @@ import time
 
 #check inputs
 if len(sys.argv)<5:
-  print("Us: ",sys.argv[0],"[current]","[price]","[production per hour]","[next action]")
+  print("Us: ",sys.argv[0],"[production]","[price]","[current]","[next action]")
   sys.exit()
 
 #inputs
-actual = int(sys.argv[1]) #current resource units
+prod   = int(sys.argv[1]) #production per hour
 preu   = int(sys.argv[2]) #price of target
-prod   = int(sys.argv[3]) #production per hour
-action = sys.argv[4]      #next action
+actual = int(sys.argv[3]) #current resource units
+action =     sys.argv[4]  #next action
 
 #compute seconds
 segons=math.floor((preu-actual)/prod*3600); #seconds until next action
