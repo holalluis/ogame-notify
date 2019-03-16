@@ -18,7 +18,6 @@ motor_i = 3   #motor impulso (no implementat de moment)
 sondes  = 19
 nausPC  = 2
 nausGC  = 1
-cazasL  = 10
 
 #classe cost
 class Cost:
@@ -109,10 +108,6 @@ class NausPC(Naus):
 class NausGC(Naus):
   def __init__(self, numero):
     Naus.__init__(self, numero, 25000, 7500, 40, Cost(6000,6000,0) )
-
-class CazaL(Naus):
-  def __init__(self, numero):
-    Naus.__init__(self, numero, 50, 12500, 16, Cost(3000,1000,0) )
 
 #calcular distancia entre 2 sistemes s1 s2
 def distancia(s1,s2):
