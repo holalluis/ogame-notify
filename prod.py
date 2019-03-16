@@ -2,20 +2,23 @@
 # -*- coding: utf-8 -*-
 '''
   CALCUL TEMPS DE VOL I CONSUM COMBUSTIBLE
-  calcular productivitat farming amb sondes vs farming amb naus de càrrega
+  productivitat farming amb sondes vs farming amb naus de càrrega
   formules: https://ogame.fandom.com/es/wiki/F%C3%B3rmulas#Tiempo_de_Vuelo
 
   TODO: calcular amortitzacio
   TODO: equivalencia naus petites grans o espionatge
-
 '''
 import math as m
 
 #inputs
 s1      = 438 #sistema sortida
-s2      = 391 #sistema arribada
-motor_c = 5   #motor combustión
+s2      = 480 #sistema arribada
+motor_c = 6   #motor combustión
 motor_i = 3   #motor impulso (no implementat de moment)
+sondes  = 19
+nausPC  = 2
+nausGC  = 1
+cazasL  = 10
 
 #classe cost
 class Cost:
@@ -23,10 +26,8 @@ class Cost:
     self.metal    = metal
     self.cristal  = cristal
     self.deuterio = deuterio
-
   def __str__(self):
     return "[%d,%d,%d]" % (self.metal, self.cristal, self.deuterio)
-
   #cost unitats absolutes ratio 3:2:1
   def absolut(self):
     return 3*self.deuterio + 2*self.cristal + 1*self.metal
@@ -39,23 +40,26 @@ class Naus:
     self.velocitat = int(velocitat) #velocitat base
     self.consum    = consum         #consum 1 nau
     self.cost      = cost           #cost 1 nau
-
   def __str__(self):
     return "Naus: %d | Càrrega: %d (%d) | Velocitat: %d | Consum: %.1f | Cost: %s (%d uabs)" % (
       self.numero,
       self.carrega,
       self.numero*self.carrega,
-      self.velocitat,
+      self.velocitat_real(),
       self.consum,
       self.cost,
       self.numero*self.cost.absolut()
     )
 
+  #velocitat aplicant tecnologia
+  def velocitat_real(self):
+    return self.velocitat*(1+0.10*motor_c)
+
   #temps de vol entre 2 sistemes s1 s2
   def temps_de_vol(self, percent, s1, s2):
-    vel = self.velocitat
+    vel = self.velocitat_real()
     dis = distancia(s1,s2)
-    return 10+35e3/percent*m.sqrt(1e3*dis/(vel+0.10*vel*motor_c))
+    return 10+35e3/percent*m.sqrt(1e3*dis/vel)
 
   #consum combustible entre 2 sistemes s1 s2
   def combustible(self, percent, s1, s2):
@@ -64,14 +68,14 @@ class Naus:
     n      = self.numero
     return 1+n*voltes*consum*distancia(s1,s2)/35e3*m.pow(percent/100+1,2)
 
-  #productivitat: recursos per hora
+  #productivitat: recursos per segon
   def productivitat(self,perc,s1,s2):
-    bote   = self.numero*self.carrega            #boti total viatge
-    bote  -= round(self.combustible(perc,s1,s2)) #resta combustible
+    boti   = self.numero*self.carrega            #boti total viatge
+    boti  -= round(self.combustible(perc,s1,s2)) #resta combustible
     segons = self.temps_de_vol(perc,s1,s2)       #segons totals viatge
-    cost   = self.numero*self.cost.absolut()     #inversió
-    return bote/segons/cost*3600 #kunitats/h
-    
+    return boti/segons #unitats/s
+
+  #calcula productivitat viatge entre sistema s1 i s2
   def viatge(self,s1,s2):
     print("[+] Viatge ",s1,"-->",s2,"| Distancia:",distancia(s1,s2))
     print(self)
@@ -97,9 +101,15 @@ class Naus:
 class Sondes(Naus):
   def __init__(self, numero):
     Naus.__init__(self, numero, 5, 100000000, 0.8, Cost(0,1000,0) )
+
 class NausPC(Naus):
   def __init__(self, numero):
     Naus.__init__(self, numero, 5000, 5000, 8, Cost(2000,2000,0) )
+
+class NausGC(Naus):
+  def __init__(self, numero):
+    Naus.__init__(self, numero, 25000, 7500, 40, Cost(6000,6000,0) )
+
 class CazaL(Naus):
   def __init__(self, numero):
     Naus.__init__(self, numero, 50, 12500, 16, Cost(3000,1000,0) )
@@ -112,8 +122,8 @@ def distancia(s1,s2):
 
 #simula flotes
 flotes=[
-  Sondes(50),
-  NausPC(10),
-  CazaL(10),
+  Sondes(sondes),
+  NausPC(nausPC),
+  NausGC(nausGC),
 ];
 for flota in flotes: flota.viatge(s1,s2) 
