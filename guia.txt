@@ -1,0 +1,934 @@
+GUIA PASO A PASO PARA LLEGAR AL TOP 100 EN OGAME
+
+La estrategia de Belen Hispana se resume en las siguientes dos ideas:
+
+1.- OGAME SOSTENIBLE: El recurso más valioso que existe en OGAME es nuestro
+tiempo de juego, no es mejor el jugador que le echa más horas sino el que
+echándole menos tiempo llega hasta arriba del todo. Además de que mucha gente
+no puede estar pendiente dia a dia del juego y acabar esclavizada por los
+horarios del Fleet Save de la flota (FS). A esto de jugar unas pocas horas y
+llevar la cuenta adelante y no ser esclavos del OGAME lo llamamos OGAME
+SOSTENIBLE.
+
+2.- PRIMERO APRENDE A SER "INVENCIBLE": Un tiburón hace flota desde el
+principio y no hace defensas, tiene permanentemente la flota en FLEET SAVE y
+solo sale a la vista para atacar, reciclar y volver a esconderse, es un
+depredador nato que ha invertido todo en flota y confia en el FS para salvar su
+flota de los enemigos. Una tortuga solo hace Minas y defensa, y comercia, pero
+no tiene flota. Una ballena sin embargo al principio hace minas y defensa como
+si fuera una Tortuga... y cuando llega a cierto nivel de defensas (UNA
+FORTALEZA BH) empieza a hacer flota en cantidades que puedas ser defendidas por
+la fortaleza y asi crecer en flota para convertirse en una ORCA o SIRENA, hasta
+llegar a ser TOP1 = KWISATZ HADERACH de toda la GALAXIA (DUNE). Hacer flota es
+el destino final de una cuenta, las TORTUGAS no tienen sentido porque ellas
+jamás harán flota... el problema es que un TIBURÓN hace flota nada más empezar
+y toda su cuenta depende de que no le pillen esa flota, mientras que una
+BALLENA-ORCA primero hace una fortaleza y después hace una flota que deja
+estacionada en esa fortaleza que aumenta aun más la defensa.Los tiburones se
+equivocan porque hacen la flota demasiado pronto y eso hace que sean reciclados
+y perder el trabajo de muchos meses... Mi estrategia es primero hacer defensas
+y despues flota se basa en esta frase de Sun Tzu (EL ARTE DE LA GUERRA):
+
+"Antiguamente, los guerreros expertos se hacían primero invencibles y esperaban
+el momento de debilidad del enemigo. La invencibilidad reside en la defensa, la
+posibilidad de victoria, en el ataque."
+
+Sun Tzu (EL ARTE DE LA GUERRA) 
+
+Esta guia RESUME TODA la estrategia de BELEN HISPANA paso a paso para que
+CUALQUIER jugador sin conocimientos de OGAME pueda llegar hasta el top 100...
+una vez llegado al top 100 EXISTE una guia más avanzada para llegar hasta el
+TOP1.
+
+Esta guia NO ARGUMENTARA EL POR QUÉ DE CADA PASO, porque si no sería enorme,
+estos pasos irán mejorando y actualizandose con las aportaciones de muchos
+estrategas libres. La guia va organizada por PASOS, para pasar al siguiente
+paso debes completar el anterior hasta tenerlos todos... Espero que esta guia
+paso a paso para llegar al TOP100 jugando unos pocos minutos al dias sea de
+vuestro agrado, el primer mes de juego es el más duro pero tambien el más
+apasionado, después todo es mucho más facil hasta que llegas al top100...
+
+Los primero 50 pasos son sin flota, a partir del paso 51 empieza a haber una
+mini flota de alta rentabilidad, gracias a todos por leer mi guia, cualquier
+idea o sugerencia pra mejorarla será siempre bienvenida.
+
+PASO 1:
+Entras en www.ogame.com.es y te registras, si por ejemplo te registras en un
+universo de los ultimos tendrás más ventajas porque empezarás desde el
+principio y si te registras en los primeros universos el nivel de dificultad
+aumenta, tu decides... OGAME.ES es un universo donde puedes ser baneado solo
+con respirar,aun asi es util para entrenamiento y aprendizaje...Si de verdad
+quieres un sitio serio donde el nivel de dificultad es mucho mayor hazte la
+cuenta en www.ogame.org pero alli debes tener en cuenta que todo se habla en
+inglés y si alguien reporta un mensaje tuyo en español a un GO tu cuenta será
+automáticamente baneada por el idioma, por lo demás es un sitio donde el
+respeto por los baneos, reglas etc... es muy superior, y el nivel de dificultad
+tambien, se ve más profesionalidad, lástima que esté en inglés y esa barrera
+para muchos no podrá ser superada... mi recomendación es que tengas una cuenta
+en OGAME.ES y otra en OGAME.ORG, asi si tienes cualquier problema en uno de los
+servidores siempre puedes seguir con tu cuenta en el otro sin miedo a
+represalias, aunque: "nunca se sabe... las manos de los dioses son muy
+largas..."
+
+PASO 2:
+Una vez registrado apareces en un planeta con unos 163 campos que nunca puede
+ser destruido, es tu planeta principal, pero no necesariamente tu planeta para
+hacer la fortaleza. Lo primero de todo es vete a la opcion ALLIANZAS y le das a
+CREAR UNA NUEVA ALIANZA y le pones un nombre que haga que la gente no te ataque
+e intimide,algunos ejemplos son:
+
+A: Miras en estadisticas la alianza más fuerte en flotas y te pones el nombre
+de la alianza y la palabra CANTERA por ejemplo,
+
+B: O te pones la palabra DESTROYER, ASESINO, TERMINATOR, GAUSS... cualquier
+cosa que intimide.
+
+Será una maravillosa alianza de un solo miembro, pero lo suficiente porque
+mucha gente no ataca a gente con alianza y mira que los que no tienen alianza
+parecen noobs y les atacan. Pero tu eres un nuevo que se sabe todos los
+truquillos.
+
+PASO 3:
+Ahora vas a conocer la famosa SECUENCIA VIEJO PROFETA-ELDELBAR para empezar en
+OGAME da igual que seas Tiburón o Ballena, esta secuencia es para ambas
+estrategias de juego y está totalmente optimizada. Tienes que completar esta
+secuencia para llegar a tener cargueros pequeños, y con ellos atacaras
+inactivos:
+
+Planta de energia solar (Nivel 1)
+Mina de metal (Nivel 1)
+Mina de metal (Nivel 2)
+Planta de energia solar (Nivel 2)
+Mina de metal (Nivel 3)
+Mina de metal (Nivel 4)
+Planta de energia solar (Nivel 3)
+Mina de cristal (Nivel 1)
+Mina de metal (Nivel 5)
+Planta de energia solar (Nivel 4)
+Mina de cristal (Nivel 2)
+Mina de cristal (Nivel 3)
+Planta de energia solar (Nivel 5)
+Sintetizador de deuterio (Nivel 1)
+Mina de cristal (Nivel 4)
+Planta de energia solar (Nivel 6)
+Mina de metal (Nivel 6)
+Mina de metal (Nivel 7)
+Planta de energia solar (Nivel 7)
+Mina de cristal (Nivel 5)
+Sintetizador de deuterio (Nivel 2)
+Planta de energia solar (Nivel 8 )
+Sintetizador de deuterio (Nivel 3)
+Sintetizador de deuterio (Nivel 4)
+Sintetizador de deuterio (Nivel 5) (bajar Deuterio a 80% dentro de recursos!!!)
+
+Esta secuencia era la clásica de VIEJO PROFETA, a partir de aqui ha sido
+modificada y optimizada por ELDELBAR:
+
+Planta de energia solar (Nivel 9)
+Mina de cristal (Nivel 6)
+Sintetizador de deuterio (Nivel 6) (bajar Deuterio a 80%)
+Fábrica de robots (Nivel 1)
+Fábrica de robots (Nivel 2)
+Laboratorio de investigación (Nivel 1)
+Tecnología de energía (Nivel 1) ---> TECNOLOGIA
+Hangar (Nivel 1)
+Motor de combustión (Nivel 1) ----> TECNOLOGIA
+Hangar (Nivel 2)
+Motor de combustión (Nivel 2) ----> TECNOLOGIA
+
+PASO 4:
+Tus minas serán ahora de 7-6-6 y tu planta de energia solar es nivel 9.
+Lo primero que debes hacer es 5 LANZACOHETES, con esa minidefensa mucha gente
+no te atacará con cargueros y podrás respirar tranquilo un tiempo. Pero ahora
+eres muy vulnerable.
+
+PASO 5:
+SUBE MINAS SIEMPRE QUE PUEDAS... Saca recursos con los cargueros pequeños: NO
+SEASSSS VAGOOOOO !!!! es vital que uses los cargueros y mucho al principio.
+Sigue los pasos:
+-TECNOLOGIA DE COMPUTACION = 2
+-TECNO DE ENERGIA = 2
+-TECNOLOGIA LASER = 3
+
+PASO 6:
+Tienes que hacer 4 cargueros pequeños, y mientras que se hacen abre la opcion
+NOTAS que esta en el menu del juego y alli creas una nueva nota llamada
+GRANJAS... tienes que acostumbrarte que todo (comercio, posibles enemigos,
+diplomacia,...) todo lo escribas en NOTAS y cada cierto tiempo copiar y pegar a
+algun archivo de word para tener una copia por si las moscas. Le das a la
+opcion GALAXIA y miras todos los planetas que tengan una i = inactivo... y
+escribes en notas las coordenadas de todos los inactivos 50 sectores para
+arriba y 50 sectores para abajo, son tus posibles granjas...
+
+Una vez hecho carguero pequeño lo mandas (manda UN SOLO CARGUERO cuando aun no
+sepas si el inactivo esta defendido o no porque puedes perder varios cargueros
+de golpe en el ataque, a esto se le llama ATACAR A CIEGAS sin sondas) a atacar
+al inactivo más cercano (el de tu mismo sector si es que hay) o si no el más
+cercano en otro sector... y A CIEGAS... a ver lo que sale... si sale bien en
+una hora o dos horas tendrás noticias que has conseguido unos pocos recursos y
+entonces marcas en NOTAS= granja EN XMadMad... si no te ha salido haz otro
+carguero peque y ataca a otro inactivo y marca el inactivo que te rompio el
+carguero pequeño como INACTIVO ASESINO..jijij... asi vas haciendo hasta tener 3
+cargueros pequeños. El máximo de ataques a un planeta cada 24 horas es de 6,
+nunca jamás ataqueis más de 6 veces. En cuanto ataqueis con exito a un objetivo
+el siguiente ataque lo haces con 3 cargueros pequeños y despues otra vez con 3
+cargueros y asi hasta dejarlo seco...
+
+Ahora hasta que se diga lo contrario, debes llegar a tener unos 9 cargueros
+pequeños y atacar a las granjas que previamente se ha visto que un carguero
+puede entrar y robarles recursos,a esto se le llama ATACAR INACTIVOS y siempre
+se hace con CARGUEROS PEQUEÑOS, que son más rápidos, los cargueros grandes ni
+mirarlos.
+
+PASO 7: SUBE HANGAR A NIVEL 3
+PASO 8: HAZ un total de 9 cargueros pequeños y a atacar inactivos como un loco.
+PASO 9: Tienes que tener en el planeta un total de 20 LANZACOHETES.
+PASO 10: TECNO DE COMPUTACION = subela a nivel 5
+PASO 11: MOTOR DE COMBUSTION = subelo a nivel 4
+PASO 12: Sube defensas hasta tener un total de 10 laseres pequeños
+PASO 13: MOTOR DE IMPULSO A NIVEL 3
+PASO 14: Haz 1 COLONIZADOR
+
+PASO 15:
+LO PRIMERO DE TODO debes saber cual es el tamaño estadístico de las posibles
+posiciones al colonizar planetas:
+
+Para saber cuantos campos va a tener la nueva colonia solo tenemos que mirar
+esta guia:
+
+Posición 1 – 3 : 80% de tener entre 40 y 70 campos
+Posición 4 – 6 : 80% de tener entre 120 y 310 campos
+Posición 7 – 9 : 80% de tener entre 105 y 195 campos
+Posición 10 – 12 : 80% de tener entre 75 y 125 campos
+Posición 13 – 15 : 80% de tener entre 60 y 190 campos
+
+Yo recomiendo siempre siempre siempre la posicion 5, despues la 4 y finalmente la 6.
+
+Entras en la opcion GALAXIA y mira la primera coordenada que este libre de las
+siguientes, por este orden:
+
+5:1:5
+5:1:4
+5:1:6
+5:499:5
+5:499:4
+5:499:6
+repite la secuencia con g6--> 6:1:5, 6:1:4, 6:1:6, 6:499:5....etc
+si tampoco hay ninguna libre asi en g6, sigue con g7...despues g8...despues g9
+si falla g9 entonces modifica la segunda coordenada el 1 por un 2 y el 499 por un 498
+
+osea:
+
+5:2:5
+5:2:4
+5:2:6
+5:498:5
+5:498:4
+5:498:6
+etc...
+
+Esto que te preguntarás el por qué, solo decirte que es fruto de muchos dolores
+de cabeza y tiene una razón de ser, entra en mi foro y verás como
+Himlianiano,Xarry y Belen Hispana entre otras, dedicaron mucho tiempo a ver
+cual era la mejor posición para la fortaleza hasta lograr esto.
+
+Una vez que tengas las coordenadas, manda el colonizador a velocidad 30% a
+colonizar (si no tienes suficiente deuterio ponlo al 20 o al 10%) y sigues con
+los pasos.
+
+PASO 16:
+Haces todos los colonizadores que puedas hasta que veas que llega a su destino
+el primer colonizador enviado. En cuanto llegue el primer colonizador lo
+primero que tienes que mirar es entrar en VISION GENERAL del nuevo planeta
+(antes marca la lengueta de entrar arriba en el nuevo planeta, te aparecera
+todo vacio) y mira en DIAMETRO el número de campos, si el número de campos es
+150 o mayor, te quedas con el planeta y empiezas a hacerle la secuencia del
+paso 3, exactamente la misma.
+
+Si este primer planeta colonizado tiene menos de 150 campos tienes que darle a
+en VISTA GENERAL arriba del todo marcar su nombre PLANETA "COLONIA" y dentro
+darle a destruir y confirmar con tu clave... ha sido un fallo de colonizacion
+porque nos salio un planeta muy pequeño. En lo sucesivo, TODO PLANETA de menos
+de 150 campos deberás destruirlo, hay gente que tiene más paciencia y hacen que
+todo planeta de menos de 200 campos destruirlo, personalmente creo que hacer
+esto es más óptimo y a la larga merece la pena, si tienes paciencia ve a por
+minimo 200 campos y si quieres avanzar rapidamente hazlo con 150 campos.
+
+Mientras sigue haciendo COLONIZADORES en el planeta principal sin parar y
+atacando inactivos. NI SE TE OCURRA ATACAR NADA QUE NO SEA UN INACTIVO, con un
+poco de suerte pasarás desapercibido y nadie te atacará, lo peor que puede
+pasarte es que un jugador te ataque y te mate todos los cargueros pequeños o
+que te lancen un misil interplanetario y te rompan las defensas, pero ahora
+mismo eres UNA PULGA en OGAME y además dentro de una alianza falsa, asi que
+nadie se fijará en ti.
+
+PASO 17:
+Si el planeta que acabas de colonizar en esas coordenadas tan especiales tiene
+más de 150 campos pero menos de 200, no te sirve como FORTALEZA BH para el
+futuro, deberás seguir la lista de coordenadas del paso 16 y enviar otro
+colonizador hasta hacer uno de minimo 200 campos, mientras los planetas que
+vayas haciendo vas haciendoles la secuencia del paso 3... es vital que consigas
+un planeta de minimo 200 campos en las coordenadas indicadas en el paso 16...
+Cuando lo tengas CUESTE LO QUE CUESTE y ten paciencia, porque esto de colonizar
+BIEN es durisimo.... cuando lo consigas pasa al paso 19.
+
+
+PASO 18
+Perfecto,
+Has conseguido por fin un planeta con 200 campos minimo en las coordenadas
+especiales del paso 16,
+
+ENHORABUENA...
+este planeta es TU PLANETA MADRE, tu planeta más importante, asi que lo que vas
+a hacer es enviar en mision TRANSPORTAR 5 cargueros desde tu planeta principal
+a este planeta llevando 5k de cristal, 10 k de metal y 5 k de deuterio O UNA
+PROPORCION SIMILAR y mientras haces la secuencia del paso 3.
+
+Imaginemonos que tu planeta madre salio en g2 2:47:11 y conseguiste al final
+colonizar un planeta de más de 200 campos en 7:499:5 y te salio un planeta en
+5:1:6 de 165 campos y otro en 6:499:4 de 152 campos. Tienes estos planetas:
+
+2:47:11 Planeta inicial llamado PLANETA PRINCIPAL (no se puede borrar)
+5:1:6 ---> 165 CAMPOS
+6:499:4--> 152 CAMPOS
+7:499:5--> 217 CAMPOS
+
+bien, aunque te duela mucho debes borrar el planeta 5:1:6, pero no lo borres
+aun porque te esta dando recursos, tendrás que borrarlo cuando tengas todos los
+planetas...
+
+el objetivo es tener una configuracion asi:
+
+A: EL PLANETA PRINCIPAL inicial que es imborrable y alli hacer LABORATORIOS.
+Solo se hacen laboratorios en 3 planetas, en el pLANETA PRINCIPAL, EN EL
+DEFENDER y en el PLANETA BH FORTALEZA.
+
+B: EL PLANETA FORTALEZA BH en las coordenadas especiales que hemos hablado.
+
+C: 5 PLANETAS lo más PEGADOS posible AL PLANETA BH pero en posiciones 5,4 o 6...
+
+D: Un planeta a 1 universo de distancia de la galaxia donde tenemos la
+fortaleza BH, en este ejemplo si la fortaleza está en 7:499:5, seria un planeta
+en g6 o en g5 en donde nos de la gana ... a ser posible que este planeta esté
+lo más cerca del centro de ese universo. ESTE PLANETA SE LE LLAMA COMUNMENTE
+"PLANETA SONDAS", ya vereis en el futuro el por qué (RECTIFICO... las sondas
+las quitaron el 7 de AGOSTO, ya no pueden atacar gracias a la MIERDA DE
+GAMEFORGE... por tanto, este planeta lo mejor es haceros otros cerca de vuestra
+colonia BH o bien hacerlo en el otro extremo de la galaxia para viajes con
+SALTO CUANTICO en un futuro lejano...)
+
+E: EL PLANETA DEFENDER que debe estar en:
+Si el planeta FORTALEZA está en 7:1:X por ejemplo, el DEFENDER debe estar en
+7:20:X, es decir, a 20 sectores de distancia... el planeta defender debe tener
+minimo 180 campos.
+Si el planeta FORTALEZA está en 7:499:X , por ejemplo, el DEFENDER debe estar
+en 7:480:x, es decir, a 20 sectores de distancia,
+
+NUNCA DEBEN ESTAR A MÁS DE 20 SECTORES DE DISTANCIA LOS PLANETAS DEFENDER
+RESPECTO AL PLANETA FORTALEZA AL QUE DEFIENDEN. no vale hacer por ejemplo la
+fortaleza en 7:1:X y el defender en 7:22:X... NO VALE... ok? en todo caso
+podeis hacerlo en un poco de menos distancia: 7:18:X O 7:17:X...etc un poquitin
+solo... si no el DEFENDER pierde efectividad...
+
+TENED FE PORQUE ESTO TIENES RAZONES DE PESO DE SER ASI, pero si tuvieramos que
+explicar en esta guia el porque de todo acabaría siendo un tocho infumable,
+solo por unos pocos que aman la estrategia como yo. Los que deseen profundizar
+más que se bajen el .ZIP del inicio de esta guia.
+
+Todos los cálculos y análisis matemáticos dicen sin ningún error que lo óptimo
+es colonizar cuanto antes y tener los 9 planetas listos a la mayor brevedad...
+asi que todo te lo gastas en COLONIZADORES hasta tener una configuracion por
+ejemplo como esta:
+
+2:47:11= 163 CAMPOS = PLANETA PRINCIPAL INICIAL
+6:200:4 = 150 CAMPOS = PLANETA SIMBOLICO SONDAS (Aqui hubieramos mandado las
+sondas a recolectar inactivos, pero desde el 7 de AGOSTO DEL 2007 ya no es
+posible, este planeta ponedlo en el otro extremo de la galaxia, por ejemplo, en
+9:250:X PARA ATACAR CON SALTO CUANTICO en el futuro... )
+7:499:5 = 217 CAMPOS = PLANETA FORTALEZA BH
+7:481:6 = 187 CAMPOS = PLANETA DEFENDER
+
+7:499:6 = COLONIA MINERA 1
+7:497:4 = COLONIA MINERA 2
+7:496:5 = COLONIA MINERA 3
+7:496:6 = COLONIA MINERA 4
+7:492:4 = COLONIA MINERA 5
+
+Como ves, las posiciones de los planetas deben ser la 5,4 o 6 por ese orden,
+para que los satélites solares den más energia. Hay gente que prefiere usar las
+posiciones 14,13 y 15 porque dan más deuterio, pero no merece la pena por el
+coste de los satélites y al final acabariamos haciendo plantas solares enormes
+si nos atacaran la colonia y destruyeran los satélites a diario.
+
+Un planeta en posiciones 5,.4 o 6 (tambien 7,8,9) jamás subirá planta de
+energia solar a nivel 10 y hará un total de unos 300 satélites de media.
+
+Un planeta en posicion 10,11,12 subirá planta de energia solar a nivel 20 y
+hará un total de 400 satelites de media
+
+Un planeta en posicion 13,14,15 subierá planeta de energia solar a nivel 20 y
+hará un total de 700 satelites de media.
+
+No hacer JAMÁS Plantas de Fusión, aunque si es una colonia minera y tienes más
+de 180 campos, puedes hacer Plantas de Fusión hasta nivel 10 por si en un
+ataque te destruyen los satélites, aunque no recomiendo hacer plantas de fusión
+nunca, es un desperdicio porque consumen deuterio.
+
+No merece la pena el extra de deuterio de las colonias de posiciones 10 a 13...
+merece la pena siempre una colonia en 5,4 o 6... la 5 suele salir más grande
+(tiene más probabilidad) que la 4 o la 6, por ser colonia central 4-5-6 de ese
+rango, siempre los centrales tienen más probabilidad (está comprobado
+experimentalmente: Teorema de Arien)
+
+PASO 19:
+Ahora tenemos que conseguir que TODAS las minas de TODOS los planetas estén a
+10-10-10 y ve haciendo plantas de energia hasta nivel 10 (no más de nivel 10 si
+todos tus planetas me hiciste caso y están entre 4,5,6 de coordenadas) y el
+resto de energia hazlo con satélites.
+
+Una vez tengas:
+plantas de energia a nivel = 10
+minas de metal = 10
+minas de cristal = 10
+minas de deuterio = 10
+pasa al siguiente paso... (este paso te llevará un tiempo, no desesperes, y
+envia cargueros pequeños entre las colonias para poder hacer rapidamente las
+minas con los recursos de todas)
+
+PASO 20:
+Solo se construyen LABORATORIOS EN 3 sitios porque subiremos en el futuro la
+RED DE INVESTIGACION GALACTICA A NIVEL 2:
+
+PLANETA PRINCIPAL INICIAL
+PLANETA FORTALEZA BH
+PLANETA DEFENDER
+
+Una vez tengamos todos los planetas, dejamos de hacer laboratorios en el
+planeta principal y haremos TODOS los laboratorios en la fortaleza.
+
+Asi que en la Fortaleza BH subiremos el laboratorio hasta nivel 6.
+
+PASO 21:
+TECNOLOGIA DE ESPIONAJE = 2
+y haz unas 20 sondas para ayudarte con los inactivos y ver antes lo que tienen,
+ahora amplia tu radio de accion de los cargueros pequeños a los inactivos de 50
+sectores por arriba y 50 sectores por abajo. Ataca siempre desde la colonia
+principal y envia los recursos aL PLANETA fortaleza BH (BH = BLACK HOLE).
+
+PASO 22:
+Ahora que tenemos los 9 planetas con minas a nivel 10, debemos hacer SILO DE
+MISILES NIVEL 2 como seaaaaaaaaa en TODAS las colonias... y hacer 10
+interceptores en cada silo, como sea.. cueste lo que cueste.
+
+PASO 23: TECNO DE IMPULSO = 5
+
+Con el dinero de las minas a nivel 10 y con lo que sacas de atacar inactivos
+con cargueros pequeños, debes hacer en cada colonia 50 laseres pequeños y 50
+lanzacohetes como sea.
+
+PASO 24: Ahora sube ROBOTS a nivel 4 en todos los planetas.
+PASO 25: Ahora sube minas en todos los planetas a nivel 12-12-12
+PASO 26: Ahora sube ROBOTS a nivel 6 en todos los planetas.  
+
+PASO 27: Ahora sube las minas en todos los planetas a 15-15-15.  
+-----------------------------------^^^^^
+
+PASO 28: HAZ HANGAR NIVEL 6 en todos los planetas.  
+PASO 29: EN EL PLANETA FORTALEZA y en el PLANETA PRINCIPAL SUBE los laseres
+pequeños de 50 a 300.  
+PASO 30: Haz en todos los planetas 20 cargueros pequeños y en el planeta
+principal haz 50 (depende del tiempo que le eches a recolectar recursos de
+inactivos). A partir de ahora y hasta que no se diga lo contrario TODOS los
+recursos se mandan al PLANETA FORTALEZA BH en mision TRANSPORTAR. Esto se suele
+hacer por la noche antes de acostarnos de golpe, con lo cual a la mañana
+siguiente tenemos en la fortaleza BH materiales suficientes para investigar a
+placer rapidamente.  
+
+PASO 31: AHORA SUBE LABORATORIO DE INVESTIGACION A NIVEL 8 EN EL PLANETA
+FORTALEZA BH.
+
+PASO 32:
+Investiga por este orden en el planeta fortaleza (vas enviado todos los
+recursos con cargueros al planeta fortaleza):
+TECNO DE BLINDAJE = 7
+TECNO MILITAR = 7
+TECNO DE ENERGIA = 6
+TECNO DE DEFENSA = 7
+
+PASO 33:
+HAZ EN TODOS LOS PLANETAS LA CUPULA GRANDE Y LA CUPULA PEQUEÑA. (la cupula es
+mejor hacerla ahora porque antes nos la rompen con mucha frecuencia, ahora está
+más defendida y da mejores resultados contra un ataque por ejemplo solo de
+cazas)
+
+PASO 34:
+Haz en el planeta FORTALEZA Y EN EL PLANETA PRINCIPAL UNOS 20 CAÑONES DE GAUSS
+y en cada uno de los restantes siete planetas haz 5 cañones de gauss.
+
+PASO 35: TECNO LASER = 6 
+PASO 36: Haz 10 laseres grandes en todos los planetas.  
+PASO 37:
+Investiga por este orden en el planeta fortaleza (vas enviado todos los recursos con cargueros al planeta fortaleza):
+TECNO COMPUTACION = 7
+TECNO DE ESPIONAJE = 7
+
+
+
+podemos estar o no de acuerdo en la estrategia,
+
+pero ESPAÑOLES E HISPANOAMERICANOS todoS apostamos por nuestra tierra y estamos en el mismo equipo, deseadme suerte, el 7 de julio parto a tierras extranjeras con un grupo de valientes dispuestos a todo, salimos de cabo de palos, en nuestros navios solo el valor y el coraje de los grandes heroes escritos en nuestra historia, de Blas de Lezo hacemos bandera y súplica para que en el fragor de la batalla, nuestro ánimo no se quiebre, que tanto tiburones hispanos como ballenas superen los arrecifes,
+
+por ESPAÑA, todo por ESPAÑA, nuestra madre...
+
+PASO 38:
+RESUMEN HASTA AHORA:
+Tienes 9 planetas perfectamente posicionados con más de 150 campos y dos planetas enormes (la fortaleza BH y el DEFENDER). Tienes minas 15-15-15 en todos y usas plantas solares a nivel 10 y el resto a satélites solares, los justos que necesites.Tienes una mini defensa en todos los planetas de 100 laseres peques+100 lanzas+10 laseres grandes+5 gauss, excepto en el planeta fortaleza y en el principal que tienes 100 lazas+300 lps+10 laseres grandes+20 gauss...Y las dos cúpulas. Y las tecnos que tienes son:
+
+ESPIONAJE = 7
+COMPUTER = 7
+MILITAR = 7
+DEFENSA = 7
+BLINDAJE = 7
+ENERGIA = 6
+COMBUSTION = 4
+IMPULSO = 5
+LASER = 6
+
+Ahora tu objetivo es el siguiente:
+A: EN LA FORTALEZA BH--> ROBOTS 10, HANGAR 10 y NANOS 2.
+
+B: SUBIR SILO DE LA FORTALEZA BH y del PLANETA PRINCIPAL A NIVEL 4 y hacer EN EL PRINCIPAL 30 INTERCEPTORES Y 5 INTERPLANETARIOS y en la FORTALEZA BH hacer 38 INTERCEPTORES Y 1 INTERPLANETARIO... esto te llevará algún tiempo pero es NECESARIO. EN TODAS LAS COLONIAS HAZ 20 INTERCEPTORES.
+
+PASO 39:
+Ahora debes hacer lo siguiente: tienes las minas a 15-15-15, debes subir SOLO la mina de METAL y la de cristal hasta llegar a tenerlas a niveles 20 las dos, hasta tener 20-20-15. Esto te llevará un tiempo. Al mismo tiempo que vas haciendo esto vas enviando todos los recursos al planeta FORTALEZA BH y vas haciendo alli esta defensa:
+
+5.000 lanzacohetes
+10.000 laseres pequeños
+100 gauss
+(es una pequeña trinchera que te ayudará para que no te ataquen a la fortaleza en construcción)
+
+y en todas las colonias subimos los lanzacohetes a 500 y hacemos 1.000 laseres pequeños. Con lo cual nos quedará una defensa de esta manera:
+
+<FORTALEZA>
+LANZAS = 5K
+LPs = 10k
+LASER GRANDE = 10
+Gauss = 100
+SILO NIVEL 4 CON 38 INTERCEPTORES Y 1 INTERPLANETARIO
+
+<PRINCIPAL Y DEFENDER>
+LANZAS = 1K
+LPS = 1K
+LASER GRANDE = 10
+GAUSS = 20
+SILO NIVEL 4 CON 30 INTERCEPTORES Y 5 INTERPLANETARIOS
+
+<COLONIAS>
+LANZAS = 500
+LPS = 500
+LASER GRANDE = 10
+GAUSS = 20
+SILO NIVEL 2 CON 20 INTERCEPTORES
+
+PASO 40:
+Ahora hacemos SILO NIVEL 4 en todassssssss las colonias... y en el planeta defender metemos 30 interceptores y 5 interplanetarios... en el planeta sondas y en las 5 colonias mineras metemos 40 INTERCEPTORES.
+
+SUBIMOS EL SILO DE LA FORTALEZA BH HASTA NIVEL 6 Y QUEDARA CON 58 INTERCEPTORES Y 1 INTERPLANETARIO.
+
+PASO 41:
+Ahora es tiempo de hacer la tecnologia PLASMA, TODOS LOS PLANETAS deben tener 30 plasmas.
+
+Debemos subir HANGAR a nivel 8 en TODOS los planetas...
+
+Los plasmas siguen siendo óptimos en las colonias pero EN LA FORTALEZA BH NO HAREMOS más de 10 plasmas NI UN SOLO PLASMA MÁS, solo GAUSS (serán cañones de gauss debido al SAC). La razón es la siguiente: la colonia está preparada para hacer el máximo de daño al enemigo pero no para sobrevivir porque será sobrepasada por el ataque, la idea es reventar bombarderos y DESTRUCTORES enemigos, cuando el silo de las colonias este completo a nivel 7, nadie lanza 70 interplanetarios para destruir 30 plasmas, pero si se lanzan 90 interplanetarios contra una fortaleza BH para despues destruir 400 plasmas a misilazos... Los plasmas salen carisimos si nos lanzan misiles, por eso solo los usaremos en las colonias, en la fortaleza solo usaremos 10 plasmas pero el resto serán Gauss. Por tanto hacemos tecno de PLASMAS y unos pocos ionicos por aquello de que cuando nos espien haya de todo e impresionemos más:
+
+TECNOLOGIA ENERGIA = 8
+TECNOLOGIA LASER = 10
+TECNOLOGIA DE PLASMA = 7
+TECNOLOGIA IONICA = 5 ---> CON IONICA NIVEL 2 PODEMOS HACER CRUCEROS, CON IONICA A 4 HACEMOS LOS CAÑONES IONICOS QUE NO VALEN PARA NADA Y CON IONICOS 5 YA PODEMOS HACER LOS PLASMAS.
+
+PASO 42:
+Ahora haremos en TODOS LOS PLANETAS 30 PLASMAS Y 10 CAÑONES IONICOS, menos en
+la fortaleza BH que solo haremos 10 plasmas. PARA HACER PLASMAS TENDRAS QUE
+HACER HANGAR NIVEL 8 EN TODOS LOS PLANETAS.
+
+Recuerda estas palabras:
+
+"Antiguamente, los guerreros expertos se hacían primero invencibles y esperaban el momento de debilidad del enemigo. La invencibilidad reside en la defensa, la posibilidad de victoria, en el ataque."
+
+Sun Tzu, El Arte de la Guerra
+
+Nuestras defensas quedarán asi:
+
+<FORTALEZA>
+LANZAS = 10K
+LPs = 5k
+LASER GRANDE = 10
+IONICO = 10
+PLASMA = 10
+GAUSS = 100
+SILO NIVEL 6 CON 58 INTERCEPTORES Y 1 INTERPLANETARIO
+
+<PLANETA>
+LANZAS = 1K
+LPS = 1K
+LASER GRANDE = 100
+IONICO = 10
+PLASMA = 30
+GAUSS = 20
+SILO NIVEL 4 CON 30 INTERCEPTORES Y 5 INTERPLANETARIOS
+
+<PLANETA>
+LANZAS = 500
+LPS = 1000
+LASER GRANDE = 50
+IONICO = 10
+PLASMA = 30
+GAUSS = 10
+SILO NIVEL 4 CON 40 INTERCEPTORES
+
+CON LO CUAL TODAS LAS DEFENSAS ESTAN TERMINADAS EXCEPTO LA DEFENSA DE LA FORTALEZA.... si nos destruyen defensas debemos reponerlas en estas proporciones... El planeta principal es el que hace los ataques a inactivos, alejado del planeta FORTALEZA de otra galaxia... para evitar odios innecesarios que nos hagan atacar nuestra fortaleza antes de tiempo, porque aunque son inactivos, cuando un inactivo se despierta y ve que lo hemos usado como granja se pilla un rebote que ni te cuento... asi se tomará el berrinche contra el PLANETA PRINCIPAL y además siempre que nos busquen irán a por el principal y les costará encontrar nuestros otros planetas que están en otra galaxia perdidos de la mano de Dios.
+
+PASO 43:
+Es hora de hacer los NANOS 3 en la fortaleza BH
+Y SUBE en todos los planetas LA FABRICA DE ROBOTS A NIVEL = 10
+Y entonces ya puedes hacer NANOS 1 en todos los planetas.
+
+PASO 44:
+Tenemos que subir las minas de metal a nivel 24.
+No os pongais nerviosos, por ahora no se hace ni flota ni sondas... solo minas y ataques a inactivos con cargueros pequeños = TECNOLOGIAS COMPUTACION 10
+
+PASO 45:
+Ya es hora de que intenteis entrar en alguna alianza, siempre intentad entrar
+en la que tenga más puntos de flota por jugador, SI POR EJEMPLO tenemos dos
+alianzas:
+
+ALIANZA PEPITO = 100 JUGADORES = 50 PUNTOS DE "FLOTA" POR JUGADOR
+ALIANZA MENGANITO = 20 JUGADORES = 100 PUNTOS DE "FLOTA" POR JUGADOR
+
+Os meteis de cabeza en la de Menganito.. siempre siempre teneis que meteros en la alianza que tenga más puntos por jugador, si la diferencia entre dos alianzas es minima pues entonces mirais la que tenga más jugadores., enviais un mensaje cortés e intentais entrar y os poneis rapidamente a comerciar DEUTERIO con la gente (esto os ayudará a crecer económicamente y a tener buena amistad con tus camaradas de alianza que empezarán a apreciarte), porque seguro que el deuterio os empieza a sobrar y no sabeis donde meterlo, y eso que las minas están a nivel 15, con el comercio debeis regular vuestras necesidades de recursos, pero controlad vosotros al comercio , que no sea el comercio el que os controla a vosotros porque puede volverse un vicio intergaláctico. Una vez que entreis en la alianza empezad a dialogar con todo el mundo y ayudad a todo el mundo, lo ideal es comprar el deuterio a 2,6:1,6:1 y venderlo a 2:9:1,9:1 con lo cual teneis ganancia. Teneis que hacer CARGUEROS GRANDES, los cargueros pequeños se seguirán usando para enviar entre colonias vuestras y los grandes para enviar desde el planeta FORTALEZA donde guardas los recursos a todo el universo.
+
+En cada planeta debes tener 100 cargueros pequeños para enviar los recursos al planeta FORTALEZA BH BLACK HOLE. 100 es la cantidad ideal (500k en recursos y se envian muy rapidos,envialos todos)
+
+HAZ 100 cargueros grandes, con eso podrás mover más de 2 millones de recursos, y ve ampliando conforme aumentas tu volumen comercial. Recuerda que tu no tienes por que ser el fabricante de deuterio... si tienes a alguien que vende deuterio y sabes de otro que compra, tu estás en el medio y haces de intermediario sin que ambas partes se conozcan, asi que te manda el deuterio a tu fortaleza y desde tu fortaleza lo mandas al otro. Cuidado que no te roben, por ahora comercia con gente de tu alianza, es raro que se robe dentro de una alianza y si eso pasa habla con el lider de la alianza para que ponga freno a esos intentos de ser ladrón de tu colega de alianza y le de un cocotazo.
+
+PASO 46:
+Es hora de subir tecnologias:
+BLINDAJE = 10
+MILITAR = 10
+DEFENSA = 10
+
+TERRAFORMER = si me habeis hecho caso con el tamaño de los planetas no necesitareis hacerlo jamás.
+
+PASO 47:
+MOTOR COMBUSTION = 10
+ESPIONAJE = 10
+
+PASO 48:
+Tienes las minas a niveles: 24:20:15
+Es hora de subir la defensa de la fortaleza porque con esto no tienes para nada y cada vez la gente te mira con más recelo, estás subiendo en el ranking y muchos ojos empezarán a fijarse en ti codiciando tus recursos:
+
+<FORTALEZA>
+LANZAS = 10K
+LPs = 5k
+LASER GRANDE = 10
+IONICO = 10
+PLASMA = 10
+GAUSS = 100
+SILO NIVEL 4 CON 38 INTERCEPTORES Y 1 INTERPLANETARIO
+
+una defensa del todo insuficiente que te ha servido hasta la fecha para sobrevivir...
+
+ahora debes subir LASERES PEQUEÑOS Y LANZACOHETES al mismo nivel todo el rato hasta llegar a 20k de lanza cohetes y 20k de laseres pequeños, esto te costará un tiempo.
+
+PASO 49:
+
+HASTA AQUI HEMOS GASTADO EXACTAMENTE EN INVESTIGACIONES UN TOTAL DE 12.822.200 EN METAL EQUIVALENTE y de esos casi 13 millones nos hemos gastado 2.242.800 EN METAL EQUIVALENTE SOLO PARA COSTEAR LAS INVESTIGACIONES DEL CAÑON DE PLASMA... en resumen:
+
+10,6 millones para todas las investigaciones hasta aqui y
+2,2 millones solo para investigar plasma:
+
+ENERGIA 7 y 8
+LASER 7,8,9 y 10
+PLASMA 1,2,3,4,5,6 y 7
+IONICA 3,4,5
+
+Esas 16 investigaciones con un coste de 2,2 millones solo han sido para hacer los plasmas, por eso os doy la siguiente opción... si no estais siendo atacados demasiado, podeis hacer los plasmas más adelante y recurrir a la defensa usando los gauss por ahora que ya completareis con plasmas, de esa manera podeis tener más rapidez en investigar otras cosas y avanzar y también por ahora ahorrais 2,2 millones, eso que cada cual lo decida, yo recomiendo que si no te atacan casi, que demores hacer los plasmas unos pasos más adelante hasta que estés más fuerte con las minas, es que cada plasma cuesta unos 250.000 de metal equivalente, son carísimos y aunque en defensa ganamos MUCHO... nos ralentizamos en la producción de minas e investigaciones, todo depende de lo que os ataquen...
+
+Si os dais cuenta con 10,6 millones de metal equivalente se puede investigar prácticame todo... porque ya lo que queda es investigar hiperespacio para la red de investigación galáctica y hacer las megainvestigaciones de BLINDAJE-MILITAR-DEFENSA que quedarán finalmente a 16-15-13... Y SON UNA PASTA pero merecen la pena... sobre todo la de blindaje hasta nivel 14 cuanto antes por lo de los misiles interplanetarios que se chequea la tecno militar del atacante contra la tecno de blindaje nuestra (la tecno de defensa no vale para nada... no la subas nunca por encima de nivel 13, merece más la pena investigar en blindaje o gastartelo en defensas, flota o lo que sea)
+
+SUBE A NIVEL 10 LOS LABORATORIOS DEL PLANETA PRINCIPAL, DEL PLANETA DEFENDER Y DEL PLANETA FORTALEZA BH (en el resto de los planetas que no haya ni un solo laboratorio, no sirven para nada), y ya puedes investigar con calidad:
+
+TECNO HYPERESPACIO = 8
+TECNO RED DE INVESTIGACION GALACTICA = 2
+TECNO DE BLINDAJE = 12
+TECNO MILITAR = 12
+TECNO DEFENSA = 12
+
+PASO 50:
+Ahora sube solo los laseres pequeños hasta 40k y sube los gauss hasta tener 500 gauss y sube el silo a nivel 7, esto te costará un mes aproximadamente y debes COMERCIAR, ATACAR INACTIVOS y en general, sacar todo el dinero para la defensa.
+
+Nuestra fortaleza ahora es la siguiente:
+
+<FORTALEZA>
+LANZAS = 20K
+LPs = 40k
+GAUSS = 500
+
+PASO 51:
+
+ESTE PASO PUEDES SALTARTELO PORQUE DESDE EL 7 DE AGOSTO GAMEFORGE HA SEGUIDO "JODIENDO" EL JUEGO Y HA PROHIBIDO QUE LAS SONDAS PUEDAN RECOLECTAR RECURSOS EN LOS ATAQUES... GAMEFORGE VA A GANAR DINERO CON EL NUMERO DE VISITAS EN SU PÁGINA, LA ESTRATEGIA QUE MÁS VISITAS DA ES LA DE SER FLOTEROS Y ESTAR PENDIENTES Y PEGADOS A INTERNET PARA QUE NO NOS DESTROCEN O PARA RECICLAR A OTROS LA FLOTA... LAS ESTRATEGIAS DE "OGAME SOSTENIBLE" DE CONECTARTE 15 A 30 MINUTOS Y JUGAR AL MÁS ALTO NIVEL CON FORTALEZAS Y DESPUES DE DEFENDIDO HACER ATAQUES PERO SIN MIEDO A QUE TE RECICLEN LA FLOTA... VAN EN CONTRA DEL NUMERO DE VISITAS DE GAMEFORGE A LA PÁGINA: para evitar esto Gameforge ha puesto en marcha varias medidas en el tiempo para que la estrategia de Defensas "Ogame Sostenible" no sea posible de llevarla a cabo... primero restringieron el comercio a un ratio minimo de 2:1,5:1 cuando antes podiamos comerciar a 1:1:1... después metieron universos de prueba donde las defensas hacen escombros... después metieron el SAC, ideal para destrozar defensas... después quitaron la posibilidad de las Sondas de recoger recursos... y lo UNICO que no es viable es que algún dia GAMEFORGE diga que las defensas dan escombros... eso sería ya lo peor de lo peor... En definitiva, a GameForge le importa UNA MIERDA la jugabilidad o el bienestar de sus jugadores, lo unico que busca es que el número de visitas de la página aumente como sea, a toda costa y para ello solo hay una estrategia para GAMEFORGE = hacer flota y estar luchando en modo ARCADE desde el primero dia... en definitiva, que OGAME no es de los mejores juegos de estrategia que podamos encontrar hoy en internet, porque sus diseñadores no quieren que sea asi... Y es muy triste.
+
+... si el inactivo tiene muchos recursos, enviad tambien cargueros pequeños.
+
+El porcentaje de sondas es, hacer 1000 sondas por cada 10.000 de fodder
+
+en este caso el fodder es 40.000+20.000 = 60000---> 6.000 sondas para recolectar a tope el universo.
+
+PASO 52:
+AHORA debeis subir minas a 28:23:22---> es un mes dedicandote a subir minas exclusivamente.
+
+PASO 53:
+TECNO DE BLINDAJE = 13
+TECNO DE COMPUTACION = 13
+TECNO MILITAR = 13
+TECNO DEFENSA = 13
+
+PASO 54:
+Ahora tienes una defensa razonable, has tenido FE siguiendo todos los pasos uno a uno y ahora ves los resultados, rara vez te atacan, estas en una buena alianza y subiendo y comerciando con todo el mundo, y ganando recursos a diario que mandas con cargueros pequeños todos los dias al planeta principal.
+
+<FORTALEZA>
+LANZAS = 20K
+LPs = 40k
+GAUSS = 500
+SILO NIVEL 4 CON 38 INTERCEPTORES Y 1 INTERPLANETARIO
+LASER GRANDE = 10 (para engordar el reporte del enemigo e impresionarlo)
+IONICO = 10 (idem de lo mismo)
+PLASMAS = 10 (idem de lo mismo)
+DOS CUPULAS
+
+esta fortaleza es una fortaleza de 60k de fodder (fodder = suma de los lanzacohetes+laseres peques) y se le puede denominar ya Bunkercito... lo de antes era una trinchera, hasta que no lleguemos a los 100k de fodder no se le puede llamar BUNKER...
+
+Ahora haremos lo siguiente antes de seguir, y esto os ASEGURO QUE OS VA A DOLER, pero MERECE LA PENA y teneis que hacerlo ahora antes de hacer más DEFENSAS. debes hacer estas tres misiones por este orden:
+
+MISION 1 = TECNO DE BLINDAJE NIVEL 14
+
+MISION 2 = NANOS NIVEL 3
+
+MISION 3 = "SILO DE MISILES NIVEL 9 CON 88 INTERCEPTORES Y 1 INTERPLANETARIO" EN LA FORTALEZA BH
+
+[LAS COLONIAS DEBEN TENER UN SILO NIVEL 7 CON 70 INTERCEPTORES EXCEPTO LA PRINCIPAL QUE TIENE 60 INTERCEPTORES Y 5 INTERPLANETARIOS (para reventar defensas puntuales de inactivos) y la DEFENDER que tiene 50 INTERCEPTORES Y 10 INTERPLANETARIOS.]
+
+PASO 55:
+Ahora es el momento de subir los GAUSS hasta tener finalmente 1.000 gauss como sea... lo cual nos permite destruir 10 EDLM sin despeinarnos. TODO EL CRISTAL lo dedicais a los GAUSS y con lo que quede de metal haceis LANZACOHETES como locos.
+
+PASO 56:
+Ahora debeis subir los LANZACOHETES hasta tener 50k de lanzacohetes y debeis subir los laseres pequeños hasta tener 100k de laseres pequeños. La forma de hacerlo es la siguiente: le dais a hacer Laseres pequeños y le poneis 999 laseres... asi hasta que nos quedemos sin cristal y entonces ya le pones el 999 en lanzacohetes... y asi vas subiendo, estarás 2 meses haciendo esto. 15minutos: Entras en la cuenta, envias todos los recursos desde los planetas al planeta fortaleza enviando los 100 cargueros pequeños (envia siempre los 100, no calcules el numero justo nunca... tu tiempo es valioso y el ahorro en deuterio es insignificante). Y asi entras, click click click... 100 cargueros, transportar, a planeta fortaleza... y cuando lleguen los recursos en una horita al planeta fortaleza.. lo pones a hacer laseres y con lo de metal sobrante hacer lanzacohetes, hasta:
+
+100k de laseres pequeños
+50k de lanzacohetes
+
+la fortaleza BLACK HOLE queda de esta manera:
+LASER PEQUEÑO = 100K
+LANZACOHETES = 50K
+GAUSS = 1K
+
+PASO 57:
+AHORA es el momento de hacer una MINIFLOTA DE ALTA RENTABILIDAD, compuesta por 300 naves de batalla, 500 cruceros,1000 cazas pesados y 1500 cazas ligeros, y ponerte a reciclar flotitas de jugadores con pocos puntos en flota. Esta flota no hace nunca FS, vive segura en el bunker y ayuda en su defensa, asi no perderás tiempo de tu vida para llegar justo a tiempo del fleet save (FS).
+
+Tus ingresos SON ENORMES vienen dados por:
+A: MINAS (aprox 5 millones diarios en metal equivalente)
+B: COMERCIO (aprox 1 millones diario minimo en comercio)
+C: ATACAR INACTIVOS CON SONDAS(ya no es posible con sondas desde el 7 de AGOSTO DEL 2006, fecha de la verguenza para GAMEFORGE) Y CARGUEROS (aprox 1 millon diario)
+D: RECICLADAS CON LA FLOTA DE MINIRENTABILIDAD. (aprox 1 millon diario de medio de prorrateo de todas las cazas de esa semana)
+
+En total consigues unos 8 millones diarios por lo bajo de metal equivalente... (osea, una burrada...)
+
+8 MILLONES DE METAL EQUIVALENTE SON UNOS 240 millones al mes, lo cual te permite sin despeinarte hacer un total de:
+
+240.000.000 / (LASER = 1500+500x1,5) = 106k mensuales !!!!!!!!!!!!
+
+y si fueran lanzas aun salen más...
+
+
+PASO 58:
+FELICIDADES !!!!!!!!!!!!!!!!!! Ahora eres una BALLENA con todas las de la ley, y dura de matar, debes haber subido en el ranking que da miedo y debes intentar entrar en la alianza con más puntos de flota por miembros ES ESENCIAL ESTO, RECUERDALO, ES VITAL PARA TU SUPERVIVENCIA...!!!
+
+Ahora tienes 3 enemigos para tu cuenta, por este orden:
+
+A: Un GO o Administrador que te banee la cuenta, es el terror más grande del universo, cuida no hacer más de 6 ataques por planetas que despues se paga con baneo por bashing, comerciar a ratio minimo 2,1:1,6:1 y en general ser muy LEGAL y si necesitas cualquier aclaración avisar al GO de turno. Un BANEO es el terror más grande de una cuenta fortaleza, nada puede destruirla más que un baneo de cuenta.
+
+B: Un SAC: Pues bien, para defendernos del SAC la unica posibilidad es subir el bunker hasta tener:
+
+BLACK HOLE ANTI SAC
+LASERES PEQUEÑOS = 400K
+LANZACOHETES = 100K
+GAUSS = 5K
+
+La relación de Gauss a fodder es que por cada 500.000 de fodder --> 5.000 gauss... por tanto la relacion es 100:1 de fodder a gauss. Con 5.000 gauss podemos destruir 50 EDLM sin despeinarnos.
+
+Por ahora sube los GAUSS A 2K Y SUBE LOS LASERES PEQUES HASTA TENER 150K, con lo cual quedará que:
+
+LASER PEQUEÑO = 150K
+LANZACOHETES = 50K
+GAUSS = 2K
+
+Como podemos tener mensuales un total de 100k de fodder... para llegar a los:
+
+LASER PEQEÑO = 400K
+LANZACOHETES = 100K
+GAUSS = 5K
+
+TENEMOS QUE NOS FALTAN 3K DE GAUSS, 250 LASERES PEQUES Y 50K DE LANZACOHETES.
+
+3K GAUSS TIENE UN EQUIVALENTE DE 65K DE LASERES PEQUE...
+
+pongamos que nos faltan 250+50+65 = 365k de fodder
+
+y cada més conseguimos recursos para hacer 100k de fodder, por tanto en unos 3 meses y medio más o menos podemos tener una fortaleza ANTI SAC, y la llamamos ANTI SAC porque destroza casi toda la flota ENEMIGA o TODA, haciendo que el ataque del SAC sea un desastre total en rentabilidad para el enemigo...
+
+C: Un ATAQUE DE COLONIAS MISILERAS: colonias que se unen para lanzarte misiles a tu planeta fortaleza y destruirtelas (suelen lanzar de 200 a 1000 misiles de media) En las colonias silo nivel 7 y en el bunker silo nivel 9 cueste lo que cueste, lo silos son FUNDAMENTALES.
+
+NO MERECE LA PENA SILO NIVEL 10 DE BASE... ANTES VA NANOS Y BLINDAJE
+
+el orden es el siguiente:
+
+0.- PRIMERO NANOS 2 +TECNOS= BLINDAJE 13-MILITAR 13-DEFENSA 13+SILO 7
+1.- DESPUES NANOS 3
+2.- DESPUES SILO NIVEL 9
+3.- DESPUES BLINDAJE 14
+4.- DESPUES NANOS 4
+5.- DESPUES NANOS 5 ---> FUNDAMENTAL LLEGAR HASTA NANOS 5, CUESTE LO QUE CUESTE...
+6.- DESPUES BLINDAJE 15
+7.- DESPUES MILITAR 14
+8.- DESPUES MILITAR 15
+9.- DESPUES SILO 10
+
+El secreto para una buena defensa de misiles interplanetarios es tener una buena colonia DEFENDER para destruirles los misiles en el silo antes de que salgan o bien nos interesa para que los lance pero todos de golpe no.
+
+Si tenemos una fortaleza como:
+
+Más de 200k de fodder
+SILO NIVEL 9
+NANOS NIVEL 3
+BLINDAJE NIVEL 14
+
+Los puntos por mayor a manor importancia para defender una fortaleza de misiles son estos:
+
+-NANOS NIVEL 5
+-BLINDAJE NIVEL 15
+-SILO NIVEL 10
+
+Los nanos nivel 5 cuestan un total de 16 millones de metal, 8 de cristal y 1,6 de deuterio... usa la investigacion de BLINDAJE NIVEL 15 para almacenar temporalmente los 16 millones de metal, y mientras que no llegas usa el deposito de metal para hacerlo y después cancelarlo y alli guardar metal a saco... son trucos que nos salvan la vida...
+
+Con más de 200k de fodder, NANOS NIVEL 5, BLINDAJE NIVEL 15 y UN SILO NIVEL 9-10... podemos vivir con tranquilidad... Con NANOS 5 un misil interceptor se hace en 27 segundos, por tanto los 100 interceptores los podemos reponer en 45 minutos !!!!!!!!!!!!!!!!!
+
+El secreto es el siguiente: te haces una lista de las colonias misileras atacantes, anotas en una tabla las coordenadas de la colonia, las coordenadas del planeta principal de ese jugador enemigo, su tecno militar, sus nanos y su nivel de silo. Ordenas los enemigos por este orden: primero por sus nanos, despues por su nivel de silo y por ultimo por su tecnologia, asi tienes numerados desde el enemigo más peligroso hasta el que solo vino para apoyar con una colonia de mierda para lanzar algunos misiles... pues bien, justo antes de irte a dormir, mandas sondas a los 20 planetas más peligrosos, y miras los misiles que tienen. Durante todo este tiempo no puedes dejar que los enemigos hagan defensas en sus planetas, dejarlos secos de defensaS en sus planetas... todas las defensas destrozadas, asi tus interplanetarios irán directamente contra sus interplanetarios. Pues bien, antes de dormir envias las sondas y miras los misiles INTERPLANETARIOS que tienen en los silos... y entonces lanzas desde la colonia DEFENDER tus misiles contra los enemigos... algunos de tus enemigos estarán ONLINE y lanzaran los interplanetarios de los silos, es perfecto porque todavia no te has acostado y puedes reponer rapidamente con nanos 5 los interceptores destruidos... pero los enemigos que no están conectados les destrozas todos los misiles. Entonces esperas pacientemente unos pocos minutos a que lleguen los interplanetarios enemigos y destrocen tus interceptores y justo al hacer eso dejas a hacer INTERPLANETARIOS, y los silos enemigos han sido vaciados... y a dormir... a la mañana siguiente mucho tienen que haber corrido para hacer daño y sobrepasar otra vez los 100 interceptores y aunque asi fuera y te hubiera destruido defensas, tu les estas reventando interplanetarios que cuestan 50k de recursos por miserables interceptores que cuestan menos de la cuarta parte y si ya les destruyes interplanetarios con los tuyos a razón 1 a 10, osea, les rompes 10 interplanetarios por uno tuyo... es decir 50k de recursos tuyos rompen 500k del enemigo !!! pues va a ser la ruina para tus enemigos, y todo esto gracias a NANOS 5.
+
+Como decia SUN TZU: "PRIMERO HACERNOS INVENCIBLES"... Ahora vamos a "CONSEGUIR VICTORIAS"... para ello haremos LUNAS, explicaremos todo sobre las lunas, sobre SAC, PHALANX,sobre salto cuantico, trucos para engañar a los enemigos y cazarlos... Maniobra IVAN EL LOCO... etc, los mejores trucos de los mejores estrategas de habla hispana para arrasar el universo.
+
+Os podeis plantar con 25k de gauss, 400k lps, 100k lanzacohetes, silo 10, 98 interceptores, 1 interplanetario, NANOS 5, MILITAR 15, BLINDAJE 15 (y subiendo) y DEFENSA 13...
+
+a partir de ahi podeis hacer flota MASIVAMENTE que dormirá en la fortaleza y aumentará su resistencia y defensa... o bien seguir haciendo defensas o minas hasta el infinito... cada cual elija su propio KUNG FU GALACTICO o estilo de jugar a OGAME.
+
+si alguien cree que esta guia no es posible, que se pase por mis cuentas de prueba que tengo en varios universos, por ejemplo en el universo 7 en las coordenadas 3:36:10 PLANETA, y mirad si lo que digo es cierto, porque una imagen (en este caso un espionaje) valen más que mil palabras...
+
+-------------------------------------------------------------------------------------
+Aqui teneis un listado de una cuenta BALLENA-ORCA a nivel medio para que tengais una referencia...
+
+MINAS MINIMAS RECOMENDADAS:
+
+METAL= 28 (se recomiendo subir sobre todo metal)
+CRISTAL = 23
+DEUTERIO = 22
+
+PLANETA FORTALEZA BH:
+
+Laseres Pequeños = 150k a 300k
+Lanzacohetes = 50k a 100k
+Gauss = 2k a 4k
+DOS CUPULAS
+SATELITES = 500 a 1000
+SONDAS = 200 (se envian de 5 en 5 en menu opciones)
+FLOTA (siempre debe ser el 10% de la fortaleza):
+15.000 cazas ligeros
+10.000 cazas pesados
+5.000 cruceros
+300 naves de batalla
+
+
+RESTO DE PLANETAS (DEFENSA COLONIAL RECOMENDADA)
+
+LASERES PEQUEÑOS = 3000
+lanzacohetes = 1000
+GAUSS = 100
+PLASMAS = 20
+SATELITES = 300 de media
+SONDAS = 20
+DOS CUPULAS
+
+
+LABORATORIOS DE INVESTIGACION NIVEL 12 EN PLANETA PRINCIPAL, FORTALEZA BH y PLANETA DEFENDER con RED DE INVESTIGACION NIVEL 2.
+
+En TODOS los planetas NANOS NIVEL 1, EXCEPTO EN LA FORTALEZA BH CON NANOS NIVEL 5 Y EN EL PLANETA DEFENDER CON NANOS NIVEL 3.
+
+PLANTAS DE ENERGIA HASTA NIVEL 20 MAXIMO, NUNCA PLANTAS DE FUSION y el resto si necesitamos energia usar SATELITES, intentad que las coordenadas estén cerca de la posicion 4.
+
+PLANETA PRINCIPAL NANOS NIVEL 5 Y HANGAR NIVEL 15.
+
+EN EL PLANETA PRINCIPAL DEPOSITOS 11 DE TODO... EN EL RESTO DE PLANETAS DEPOSITOS 8 metal :6 cristal :4 deuterio.
+
+DEPOSITO DE LA ALIANZA NIVEL 2 EN TODOS LOS PLANETAS.
+
+EN EL PLANETA PRINCIPAL SILO NIVEL 9-10 (98 INTERCEPTORES y 1 interplanetario) y en el resto de planetas SILO NIVEL 7 (60 interceptores y 5 interplanetarios), excepto en el planeta DEFENDER que está a nivel 8 con 50 interceptores y 15 interplanetarios). En total tienes 1+15+5x7 planetas = 51 interplanetarios para lanzar inmediatamente...
+
+LISTADO COMPLETO DE INVESTIGACIONES MEDIAS:
+
+-ESPIONAJE = 13
+-COMPUTACION = 13
+-MILITAR = 15
+-DEFENSA = 14
+-BLINDAJE = 15 (subirlo más...)
+-ENERGIA = 12
+-TECNOLOGIA DE HIPERESPACIO = 8
+-COMBUSTION = 13
+-IMPULSO = 11
+-PROPULSOR HYPERESPACIAL = 8
+-LASER = 10
+-IONICA = 5
+-PLASMA = 7
+-RED DE INVESTIGACION GALÁCTICA = 2
+-GRAVITON = INUTIL, NO HACERLO NUNCA...
+
+aHORA es el momento de empezar a hacer flota masivamente, todo depende del universo en el que jugueis... primero debeis APRENDER A SER INVENCIBLES y entonces hacer flota para obtener la GLORIA... empezareis con desventaja de flota respecto a otros tiburones, para ello usaremos una excelente flota que puede reventar a flotas superiores...
+
+hablamos de la LEGENDARIA FLOTA HISPANA 3:2:1 que va acompañada por las 300 naves de batalla para tener poder de destruir incluso unas pocas EDLM...
+
+la flota 3:2:1 es simple, pero ultraefectiva, se basa en hacer por cada 1 cruceros, 2 cazas pesados y 3 cazas ligeros... el análisis detallado lo teneis abajo de la guia.Es una flota para defender y triunfar, una flota para ganar a flotas superiores a ella en recursos, es la flota OPTIMIZADA FLOTA VS FLOTA...
+
+LA PROPORCION IDEAL DE DEFENSAS ES ESTA:
+
+8 GAUSS + 100 LANZAMISILES + 300 LASERES PEQUEÑOS
+
+por ejemplo, en un universo recien empezado,tenemos:
+12,5k LANZAMISILES
+37,5k LASERES PEQUEÑOS
+1k GAUSS (destruyen 10 EDLM enemigas)
+
+por ejemplo, en un universo relativamente nuevo, tenemos:
+50k LANZAMISILES
+150k LASERES PEQUEÑOS
+4k GAUSS (destruyen 40 EDLM enemigas)
+
+en un universo antiguo, tenemos:
+100k LANZAMISILES
+300K LASERES PEQUEÑOS
+8K GAUSS (destruyen 80 EDLM enemigas)
+
+A partir de aqui la proporcion del multiplicador la poneis vosotros, pero recordad que si hay HORDAS de SAC con EDLM asesinas... entonces debeis subir los GAUSS... con 25.000 gauss y un fodder de 400k podeis destrozar TOTALMENTE unas 200 EDLM... casi ná...
+
+Aqui estoy para ayudar y compartir,
+
+un beso para la buena gente de OGAME que aun cree que esto es un juego de Estrategia y no un mata-mata Arcade de navecitas...
+
+belen hispana
