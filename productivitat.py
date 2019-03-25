@@ -10,12 +10,12 @@
 '''
 import math  as m
 import ogame as o
-o.motor_c = 8 #motor combustión: augmenta velocitat PC i GC
+o.motor_c = 9 #motor combustión: augmenta velocitat PC i GC
 o.motor_i = 6 #motor impulso: augmenta velocitat PC a partir del nivell 5
 o.tec_hip = 6 #tecnologia hiperespacio: augmenta 5% càrrega
 
 #inputs
-boti = 107e3/2 #botí possible
+boti = 212e3/2 #botí possible
 s1   = 438 #sistema sortida
 s2   = 414 #sistema arribada
 
