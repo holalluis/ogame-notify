@@ -9,14 +9,15 @@
 '''
 import math  as m
 import ogame as o
+
+#inputs
+boti = 78e3/2 #botí possible
+s1   = 438 #sistema sortida
+s2   = 414 #sistema arribada
+
 o.motor_c = 10 #motor combustión (velocitat)
 o.motor_i = 7  #motor impulso (velocitat)
 o.tec_hip = 7  #tecnologia hiperespacio (càrrega)
-
-#inputs
-boti = 161e3/2 #botí possible
-s1   = 438 #sistema sortida
-s2   = 414 #sistema arribada
 
 #flotes per simular
 flotes=[
