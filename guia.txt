@@ -1,3 +1,5 @@
+pas actual marcat amb la paraula: FENT_ARA
+
 GUIA PASO A PASO PARA LLEGAR AL TOP 100 EN OGAME
 
 La estrategia de Belen Hispana se resume en las siguientes dos ideas:
@@ -415,6 +417,8 @@ ahora amplia tu radio de accion de los cargueros pequeños a los inactivos de 50
 sectores por arriba y 50 sectores por abajo. Ataca siempre desde la colonia
 principal y envia los recursos aL PLANETA fortaleza BH (BH = BLACK HOLE).
 
+FENT_ARA :
+
 PASO 22:
 Ahora que tenemos los 9 planetas con minas a nivel 10, debemos hacer SILO DE
 MISILES NIVEL 2 como seaaaaaaaaa en TODAS las colonias... y hacer 10
@@ -429,10 +433,7 @@ lanzacohetes como sea.
 PASO 24: Ahora sube ROBOTS a nivel 4 en todos los planetas.
 PASO 25: Ahora sube minas en todos los planetas a nivel 12-12-12
 PASO 26: Ahora sube ROBOTS a nivel 6 en todos los planetas.  
-
 PASO 27: Ahora sube las minas en todos los planetas a 15-15-15.  
------------------------------------^^^^^
-
 PASO 28: HAZ HANGAR NIVEL 6 en todos los planetas.  
 PASO 29: EN EL PLANETA FORTALEZA y en el PLANETA PRINCIPAL SUBE los laseres
 pequeños de 50 a 300.  

@@ -24,7 +24,8 @@ class Cost:
 
 #classe flota
 class Naus:
-  def __init__(self, numero, carrega, velocitat, consum, cost):
+  def __init__(self, numero=0, carrega=0, velocitat=0, consum=0, cost=0):
+    self.nom       = 'NAUS'
     self.numero    = int(numero)    #quantitat de naus
     self.carrega   = int(carrega)   #carrega que pot portar 1 nau
     self.velocitat = int(velocitat) #velocitat base
@@ -32,7 +33,8 @@ class Naus:
     self.cost      = cost           #cost 1 nau
 
   def __str__(self):
-    return "Naus: %d | Càrrega: %d (%d) | Velocitat: %d | Consum: %.1f | Cost: %s (%d uabs)" % (
+    return "%s x%d | Càrrega: %d (%d) | Velocitat: %d | Consum: %.1f | Cost: %s (%d uabs)" % (
+      self.nom,
       self.numero,
       self.carrega_real(),
       self.numero*self.carrega_real(),
@@ -69,11 +71,19 @@ class Naus:
   #calcula productivitat viatge entre sistema s1 i s2
   def viatge(self,s1,s2,boti):
     boti=int(boti)
-    print("[+] Viatge ",s1,"-->",s2,"| Distancia:",distancia(s1,s2),"| Botí:",boti)
     naus_suggerides = m.ceil(boti/self.carrega_real())
 
-    if naus_suggerides != self.numero: print("Naus suggerides:",naus_suggerides)
+    #simula només les naus necessàries
+    if(naus_suggerides!=self.numero):
+      numero_inicial = self.numero
+      self.numero = naus_suggerides
+      prod = self.viatge(s1,s2,boti)
+      if(numero_inicial==0 or numero_inicial>=naus_suggerides):
+        return prod
+      else:
+        self.numero = numero_inicial
 
+    print("[+] Viatge ",s1,"-->",s2,"| Distancia:",distancia(s1,s2),"| Botí:",boti)
     print(self)
     #10% 20% 30% ... 100%
     for perc in range(100,101,10):
@@ -92,28 +102,27 @@ class Naus:
         "| Prod:",prod)
     print()
 
-    if(naus_suggerides!=self.numero):
-      self.numero=naus_suggerides
-      self.viatge(s1,s2,boti)
-
     return prod
 #-------------------------------------------------------------
 
 #classes pels tipus de naus
 #-------------------------------------------------------------
 class Sondes(Naus):
-  def __init__(self,n):
+  def __init__(self,n=0):
     Naus.__init__(self,n,    5,  1e8, 0.8, Cost(   0,1000,0) )
+    self.nom="SONDES"
 #-------------------------------------------------------------
 class NausPC(Naus):
-  def __init__(self,n):
+  def __init__(self,n=0):
     Naus.__init__(self,n,  5e3,  1e4,   8, Cost(2000,2000,0) )
+    self.nom="NAUS PC"
   def velocitat_real(self):
     return self.velocitat*(1+0.2*motor_i)
 #-------------------------------------------------------------
 class NausGC(Naus):
-  def __init__(self,n):
+  def __init__(self,n=0):
     Naus.__init__(self,n, 25e3, 7500,  40, Cost(6000,6000,0) )
+    self.nom="NAUS GC"
 #-------------------------------------------------------------
 
 #calcular distancia entre 2 sistemes s1 s2
