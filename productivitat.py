@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+import ogame as o
 '''
   CALCUL PRODUCTIVITAT: TEMPS DE VOL, CONSUM COMBUSTIBLE I BENEFICIS
   farming: sondes vs naus de càrrega
@@ -7,17 +8,13 @@
   TODO: calcular amortitzacio
   TODO: equivalencia naus petites grans o espionatge
 '''
-import math  as m
-import ogame as o
-
-#inputs
-boti = 78e3/2 #botí possible
-s1   = 438 #sistema sortida
-s2   = 414 #sistema arribada
-
-o.motor_c = 10 #motor combustión (velocitat)
-o.motor_i = 7  #motor impulso (velocitat)
-o.tec_hip = 7  #tecnologia hiperespacio (càrrega)
+kkk       = 137  #recursos (k) al planeta
+s1        = 438  #sistema sortida
+s2        = 414  #sistema arribada
+o.motor_c = 10   #motor combustión (velocitat)
+o.motor_i = 7    #motor impulso (velocitat)
+o.tec_hip = 7    #tecnologia hiperespacio (càrrega)
+boti = kkk*1e3/2 #botí màxim (50%)
 
 #flotes per simular
 flotes=[
@@ -26,5 +23,4 @@ flotes=[
 ]
 
 #simulacions
-for f in flotes:
-  f.viatge(s1,s2,boti) 
+for f in flotes: f.viatge(s1,s2,boti) 
