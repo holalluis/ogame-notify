@@ -8,7 +8,7 @@ import ogame as o
   TODO: calcular amortitzacio
   TODO: equivalencia naus petites grans o espionatge
 '''
-kkk       = 137  #recursos (k) al planeta
+kkk       = 446  #recursos (k) al planeta
 s1        = 438  #sistema sortida
 s2        = 414  #sistema arribada
 o.motor_c = 10   #motor combustión (velocitat)
@@ -19,8 +19,10 @@ boti = kkk*1e3/2 #botí màxim (50%)
 #flotes per simular
 flotes=[
   o.NausPC(),
-  o.Sondes(), #o.NausGC(2),
+  #o.Sondes(), #o.NausGC(2),
 ]
+
+botins=[60, 100, 120, 150, 180, 200]
 
 #simulacions
 for f in flotes: f.viatge(s1,s2,boti) 

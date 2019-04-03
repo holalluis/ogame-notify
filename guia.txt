@@ -1,5 +1,3 @@
-pas actual marcat amb la paraula: FENT_ARA
-
 GUIA PASO A PASO PARA LLEGAR AL TOP 100 EN OGAME
 
 La estrategia de Belen Hispana se resume en las siguientes dos ideas:
@@ -460,10 +458,6 @@ mejor hacerla ahora porque antes nos la rompen con mucha frecuencia, ahora está
 más defendida y da mejores resultados contra un ataque por ejemplo solo de
 cazas)
 
-+-----------+
-| FENT_ARA: |
-+-----------+
-
 PASO 34:
 Haz en el planeta FORTALEZA Y EN EL PLANETA PRINCIPAL UNOS 20 CAÑONES DE GAUSS
 y en cada uno de los restantes siete planetas haz 5 cañones de gauss.
@@ -471,7 +465,8 @@ y en cada uno de los restantes siete planetas haz 5 cañones de gauss.
 PASO 35: TECNO LASER = 6 
 PASO 36: Haz 10 laseres grandes en todos los planetas.  
 PASO 37:
-Investiga por este orden en el planeta fortaleza (vas enviado todos los recursos con cargueros al planeta fortaleza):
+Investiga por este orden en el planeta fortaleza (vas enviado todos los
+recursos con cargueros al planeta fortaleza):
 TECNO COMPUTACION = 7
 TECNO DE ESPIONAJE = 7
 
@@ -495,15 +490,9 @@ laseres peques+100 lanzas+10 laseres grandes+5 gauss, excepto en el planeta
 fortaleza y en el principal que tienes 100 lazas+300 lps+10 laseres grandes+20
 gauss...Y las dos cúpulas. Y las tecnos que tienes son:
 
-ESPIONAJE = 7
-COMPUTER = 7
-MILITAR = 7
-DEFENSA = 7
-BLINDAJE = 7
-ENERGIA = 6
-COMBUSTION = 4
-IMPULSO = 5
-LASER = 6
+ESPIONAJE = 7 COMPUTER = 7 
+MILITAR = 7 DEFENSA = 7 BLINDAJE = 7
+ENERGIA = 6 COMBUSTION = 4 IMPULSO = 5 LASER = 6
 
 Ahora tu objetivo es el siguiente:
 A: EN LA FORTALEZA BH--> ROBOTS 10, HANGAR 10 y NANOS 2.
@@ -520,20 +509,21 @@ hasta tener 20-20-15. Esto te llevará un tiempo. Al mismo tiempo que vas
 haciendo esto vas enviando todos los recursos al planeta FORTALEZA BH y vas
 haciendo alli esta defensa:
 
-5.000 lanzacohetes
-10.000 laseres pequeños
+ 5k lanzacohetes
+10k laseres pequeños
 100 gauss
 (es una pequeña trinchera que te ayudará para que no te ataquen a la fortaleza en construcción)
 
 y en todas las colonias subimos los lanzacohetes a 500 y hacemos 1.000 laseres
 pequeños. Con lo cual nos quedará una defensa de esta manera:
 
-<FORTALEZA>            LM=5K  | LPs=10k | LGs=10 | Gauss=100 | SILO L4 CON 38 INTERCEPTORES Y 1 INTERPLANETARIO
-<PRINCIPAL Y DEFENDER> LM=1K  | LPs=1K  | LGs=10 | Gauss=20  | SILO L4 CON 30 INTERCEPTORES Y 5 INTERPLANETARIOS
-<COLONIAS>             LM=500 | LPS=500 | LGs=10 | Gauss=20  | SILO L2 CON 20 INTERCEPTORES
+                     LM    LPs   LGs  Gauss
+FORTALEZA             5k | 10k | 10 | 100 | SILO L4 CON 38 INTERCEPTORES Y 1 INTERPLANETARIO
+PRINCIPAL Y DEFENDER  1k |  1k | 10 |  20 | SILO L4 CON 30 INTERCEPTORES Y 5 INTERPLANETARIOS
+COLONIAS             500 | 500 | 10 |  20 | SILO L2 CON 20 INTERCEPTORES
 
 PASO 40:
-Ahora hacemos SILO NIVEL 4 en todassssssss las colonias... y en el planeta
+Ahora hacemos SILO NIVEL 4 en todas las colonias... y en el planeta
 defender metemos 30 interceptores y 5 interplanetarios... en el planeta sondas
 y en las 5 colonias mineras metemos 40 INTERCEPTORES.
 
@@ -561,7 +551,9 @@ aquello de que cuando nos espien haya de todo e impresionemos más:
 TECNOLOGIA ENERGIA = 8
 TECNOLOGIA LASER = 10
 TECNOLOGIA DE PLASMA = 7
-TECNOLOGIA IONICA = 5 ---> CON IONICA NIVEL 2 PODEMOS HACER CRUCEROS, CON IONICA A 4 HACEMOS LOS CAÑONES IONICOS QUE NO VALEN PARA NADA Y CON IONICOS 5 YA PODEMOS HACER LOS PLASMAS.
+TECNOLOGIA IONICA = 5 ---> CON IONICA NIVEL 2 PODEMOS HACER CRUCEROS, CON
+IONICA A 4 HACEMOS LOS CAÑONES IONICOS QUE NO VALEN PARA NADA Y CON IONICOS 5
+YA PODEMOS HACER LOS PLASMAS.
 
 PASO 42:
 Ahora haremos en TODOS LOS PLANETAS 30 PLASMAS Y 10 CAÑONES IONICOS, menos en
@@ -570,7 +562,9 @@ HACER HANGAR NIVEL 8 EN TODOS LOS PLANETAS.
 
 Recuerda estas palabras:
 
-"Antiguamente, los guerreros expertos se hacían primero invencibles y esperaban el momento de debilidad del enemigo. La invencibilidad reside en la defensa, la posibilidad de victoria, en el ataque."
+"Antiguamente, los guerreros expertos se hacían primero invencibles y esperaban
+el momento de debilidad del enemigo. La invencibilidad reside en la defensa, la
+posibilidad de victoria, en el ataque."
 
 Sun Tzu, El Arte de la Guerra
 
