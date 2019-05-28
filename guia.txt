@@ -1,5 +1,4 @@
 GUIA PASO A PASO PARA LLEGAR AL TOP 100 EN OGAME
-
 La estrategia de Belen Hispana se resume en las siguientes dos ideas:
 
 1.- OGAME SOSTENIBLE: El recurso más valioso que existe en OGAME es nuestro
@@ -33,7 +32,7 @@ y despues flota se basa en esta frase de Sun Tzu (EL ARTE DE LA GUERRA):
 el momento de debilidad del enemigo. La invencibilidad reside en la defensa, la
 posibilidad de victoria, en el ataque."
 
-Sun Tzu (EL ARTE DE LA GUERRA) 
+                                          Sun Tzu (EL ARTE DE LA GUERRA)
 
 Esta guia RESUME TODA la estrategia de BELEN HISPANA paso a paso para que
 CUALQUIER jugador sin conocimientos de OGAME pueda llegar hasta el top 100...
@@ -146,9 +145,9 @@ PASO 5:
 SUBE MINAS SIEMPRE QUE PUEDAS... Saca recursos con los cargueros pequeños: NO
 SEASSSS VAGOOOOO !!!! es vital que uses los cargueros y mucho al principio.
 Sigue los pasos:
--TECNOLOGIA DE COMPUTACION = 2
--TECNO DE ENERGIA = 2
--TECNOLOGIA LASER = 3
+-TECNOLOGIA  DE     COMPUTACION  =  2
+-TECNO       DE     ENERGIA      =  2
+-TECNOLOGIA  LASER  =            3
 
 PASO 6:
 Tienes que hacer 4 cargueros pequeños, y mientras que se hacen abre la opcion
@@ -271,7 +270,6 @@ vayas haciendo vas haciendoles la secuencia del paso 3... es vital que consigas
 un planeta de minimo 200 campos en las coordenadas indicadas en el paso 16...
 Cuando lo tengas CUESTE LO QUE CUESTE y ten paciencia, porque esto de colonizar
 BIEN es durisimo.... cuando lo consigas pasa al paso 19.
-
 
 PASO 18
 Perfecto,
@@ -428,18 +426,18 @@ lanzacohetes como sea.
 
 PASO 24: Ahora sube ROBOTS a nivel 4 en todos los planetas.
 PASO 25: Ahora sube minas en todos los planetas a nivel 12-12-12
-PASO 26: Ahora sube ROBOTS a nivel 6 en todos los planetas.  
-PASO 27: Ahora sube las minas en todos los planetas a 15-15-15.  
-PASO 28: HAZ HANGAR NIVEL 6 en todos los planetas.  
+PASO 26: Ahora sube ROBOTS a nivel 6 en todos los planetas.
+PASO 27: Ahora sube las minas en todos los planetas a 15-15-15.
+PASO 28: HAZ HANGAR NIVEL 6 en todos los planetas.
 PASO 29: EN EL PLANETA FORTALEZA y en el PLANETA PRINCIPAL SUBE los laseres
-pequeños de 50 a 300.  
+pequeños de 50 a 300.
 PASO 30: Haz en todos los planetas 20 cargueros pequeños y en el planeta
 principal haz 50 (depende del tiempo que le eches a recolectar recursos de
 inactivos). A partir de ahora y hasta que no se diga lo contrario TODOS los
 recursos se mandan al PLANETA FORTALEZA BH en mision TRANSPORTAR. Esto se suele
 hacer por la noche antes de acostarnos de golpe, con lo cual a la mañana
 siguiente tenemos en la fortaleza BH materiales suficientes para investigar a
-placer rapidamente.  
+placer rapidamente.
 
 PASO 31: AHORA SUBE LABORATORIO DE INVESTIGACION A NIVEL 8 EN EL PLANETA
 FORTALEZA BH.
@@ -462,8 +460,8 @@ PASO 34:
 Haz en el planeta FORTALEZA Y EN EL PLANETA PRINCIPAL UNOS 20 CAÑONES DE GAUSS
 y en cada uno de los restantes siete planetas haz 5 cañones de gauss.
 
-PASO 35: TECNO LASER = 6 
-PASO 36: Haz 10 laseres grandes en todos los planetas.  
+PASO 35: TECNO LASER = 6
+PASO 36: Haz 10 laseres grandes en todos los planetas.
 PASO 37:
 Investiga por este orden en el planeta fortaleza (vas enviado todos los
 recursos con cargueros al planeta fortaleza):
@@ -490,7 +488,7 @@ laseres peques+100 lanzas+10 laseres grandes+5 gauss, excepto en el planeta
 fortaleza y en el principal que tienes 100 lazas+300 lps+10 laseres grandes+20
 gauss...Y las dos cúpulas. Y las tecnos que tienes son:
 
-ESPIONAJE = 7 COMPUTER = 7 
+ESPIONAJE = 7 COMPUTER = 7
 MILITAR = 7 DEFENSA = 7 BLINDAJE = 7
 ENERGIA = 6 COMBUSTION = 4 IMPULSO = 5 LASER = 6
 
@@ -509,9 +507,9 @@ hasta tener 20-20-15. Esto te llevará un tiempo. Al mismo tiempo que vas
 haciendo esto vas enviando todos los recursos al planeta FORTALEZA BH y vas
 haciendo alli esta defensa:
 
- 5k lanzacohetes
-10k laseres pequeños
-100 gauss
+5000 lanzacohetes
+ 10k laseres pequeños
+ 100 gauss
 (es una pequeña trinchera que te ayudará para que no te ataquen a la fortaleza en construcción)
 
 y en todas las colonias subimos los lanzacohetes a 500 y hacemos 1.000 laseres
@@ -597,7 +595,16 @@ PLASMA = 30
 GAUSS = 10
 SILO NIVEL 4 CON 40 INTERCEPTORES
 
-CON LO CUAL TODAS LAS DEFENSAS ESTAN TERMINADAS EXCEPTO LA DEFENSA DE LA FORTALEZA.... si nos destruyen defensas debemos reponerlas en estas proporciones... El planeta principal es el que hace los ataques a inactivos, alejado del planeta FORTALEZA de otra galaxia... para evitar odios innecesarios que nos hagan atacar nuestra fortaleza antes de tiempo, porque aunque son inactivos, cuando un inactivo se despierta y ve que lo hemos usado como granja se pilla un rebote que ni te cuento... asi se tomará el berrinche contra el PLANETA PRINCIPAL y además siempre que nos busquen irán a por el principal y les costará encontrar nuestros otros planetas que están en otra galaxia perdidos de la mano de Dios.
+CON LO CUAL TODAS LAS DEFENSAS ESTAN TERMINADAS EXCEPTO LA DEFENSA DE LA
+FORTALEZA.... si nos destruyen defensas debemos reponerlas en estas
+proporciones... El planeta principal es el que hace los ataques a inactivos,
+alejado del planeta FORTALEZA de otra galaxia... para evitar odios innecesarios
+que nos hagan atacar nuestra fortaleza antes de tiempo, porque aunque son
+inactivos, cuando un inactivo se despierta y ve que lo hemos usado como granja
+se pilla un rebote que ni te cuento... asi se tomará el berrinche contra el
+PLANETA PRINCIPAL y además siempre que nos busquen irán a por el principal y
+les costará encontrar nuestros otros planetas que están en otra galaxia
+perdidos de la mano de Dios.
 
 PASO 43:
 Es hora de hacer los NANOS 3 en la fortaleza BH
@@ -606,7 +613,8 @@ Y entonces ya puedes hacer NANOS 1 en todos los planetas.
 
 PASO 44:
 Tenemos que subir las minas de metal a nivel 24.
-No os pongais nerviosos, por ahora no se hace ni flota ni sondas... solo minas y ataques a inactivos con cargueros pequeños = TECNOLOGIAS COMPUTACION 10
+No os pongais nerviosos, por ahora no se hace ni flota ni sondas... solo minas
+y ataques a inactivos con cargueros pequeños = TECNOLOGIAS COMPUTACION 10
 
 PASO 45:
 Ya es hora de que intenteis entrar en alguna alianza, siempre intentad entrar
@@ -616,11 +624,36 @@ alianzas:
 ALIANZA PEPITO = 100 JUGADORES = 50 PUNTOS DE "FLOTA" POR JUGADOR
 ALIANZA MENGANITO = 20 JUGADORES = 100 PUNTOS DE "FLOTA" POR JUGADOR
 
-Os meteis de cabeza en la de Menganito.. siempre siempre teneis que meteros en la alianza que tenga más puntos por jugador, si la diferencia entre dos alianzas es minima pues entonces mirais la que tenga más jugadores., enviais un mensaje cortés e intentais entrar y os poneis rapidamente a comerciar DEUTERIO con la gente (esto os ayudará a crecer económicamente y a tener buena amistad con tus camaradas de alianza que empezarán a apreciarte), porque seguro que el deuterio os empieza a sobrar y no sabeis donde meterlo, y eso que las minas están a nivel 15, con el comercio debeis regular vuestras necesidades de recursos, pero controlad vosotros al comercio , que no sea el comercio el que os controla a vosotros porque puede volverse un vicio intergaláctico. Una vez que entreis en la alianza empezad a dialogar con todo el mundo y ayudad a todo el mundo, lo ideal es comprar el deuterio a 2,6:1,6:1 y venderlo a 2:9:1,9:1 con lo cual teneis ganancia. Teneis que hacer CARGUEROS GRANDES, los cargueros pequeños se seguirán usando para enviar entre colonias vuestras y los grandes para enviar desde el planeta FORTALEZA donde guardas los recursos a todo el universo.
+Os meteis de cabeza en la de Menganito.. siempre siempre teneis que meteros en
+la alianza que tenga más puntos por jugador, si la diferencia entre dos
+alianzas es minima pues entonces mirais la que tenga más jugadores., enviais un
+mensaje cortés e intentais entrar y os poneis rapidamente a comerciar DEUTERIO
+con la gente (esto os ayudará a crecer económicamente y a tener buena amistad
+con tus camaradas de alianza que empezarán a apreciarte), porque seguro que el
+deuterio os empieza a sobrar y no sabeis donde meterlo, y eso que las minas
+están a nivel 15, con el comercio debeis regular vuestras necesidades de
+recursos, pero controlad vosotros al comercio , que no sea el comercio el que
+os controla a vosotros porque puede volverse un vicio intergaláctico. Una vez
+que entreis en la alianza empezad a dialogar con todo el mundo y ayudad a todo
+el mundo, lo ideal es comprar el deuterio a 2,6:1,6:1 y venderlo a 2:9:1,9:1
+con lo cual teneis ganancia. Teneis que hacer CARGUEROS GRANDES, los cargueros
+pequeños se seguirán usando para enviar entre colonias vuestras y los grandes
+para enviar desde el planeta FORTALEZA donde guardas los recursos a todo el
+universo.
 
-En cada planeta debes tener 100 cargueros pequeños para enviar los recursos al planeta FORTALEZA BH BLACK HOLE. 100 es la cantidad ideal (500k en recursos y se envian muy rapidos,envialos todos)
+En cada planeta debes tener 100 cargueros pequeños para enviar los recursos al
+planeta FORTALEZA BH BLACK HOLE. 100 es la cantidad ideal (500k en recursos y
+se envian muy rapidos,envialos todos)
 
-HAZ 100 cargueros grandes, con eso podrás mover más de 2 millones de recursos, y ve ampliando conforme aumentas tu volumen comercial. Recuerda que tu no tienes por que ser el fabricante de deuterio... si tienes a alguien que vende deuterio y sabes de otro que compra, tu estás en el medio y haces de intermediario sin que ambas partes se conozcan, asi que te manda el deuterio a tu fortaleza y desde tu fortaleza lo mandas al otro. Cuidado que no te roben, por ahora comercia con gente de tu alianza, es raro que se robe dentro de una alianza y si eso pasa habla con el lider de la alianza para que ponga freno a esos intentos de ser ladrón de tu colega de alianza y le de un cocotazo.
+HAZ 100 cargueros grandes, con eso podrás mover más de 2 millones de recursos,
+y ve ampliando conforme aumentas tu volumen comercial. Recuerda que tu no
+tienes por que ser el fabricante de deuterio... si tienes a alguien que vende
+deuterio y sabes de otro que compra, tu estás en el medio y haces de
+intermediario sin que ambas partes se conozcan, asi que te manda el deuterio a
+tu fortaleza y desde tu fortaleza lo mandas al otro. Cuidado que no te roben,
+por ahora comercia con gente de tu alianza, es raro que se robe dentro de una
+alianza y si eso pasa habla con el lider de la alianza para que ponga freno a
+esos intentos de ser ladrón de tu colega de alianza y le de un cocotazo.
 
 PASO 46:
 Es hora de subir tecnologias:
@@ -636,7 +669,9 @@ ESPIONAJE = 10
 
 PASO 48:
 Tienes las minas a niveles: 24:20:15
-Es hora de subir la defensa de la fortaleza porque con esto no tienes para nada y cada vez la gente te mira con más recelo, estás subiendo en el ranking y muchos ojos empezarán a fijarse en ti codiciando tus recursos:
+Es hora de subir la defensa de la fortaleza porque con esto no tienes para nada
+y cada vez la gente te mira con más recelo, estás subiendo en el ranking y
+muchos ojos empezarán a fijarse en ti codiciando tus recursos:
 
 <FORTALEZA>
 LANZAS = 10K
@@ -649,11 +684,16 @@ SILO NIVEL 4 CON 38 INTERCEPTORES Y 1 INTERPLANETARIO
 
 una defensa del todo insuficiente que te ha servido hasta la fecha para sobrevivir...
 
-ahora debes subir LASERES PEQUEÑOS Y LANZACOHETES al mismo nivel todo el rato hasta llegar a 20k de lanza cohetes y 20k de laseres pequeños, esto te costará un tiempo.
+ahora debes subir LASERES PEQUEÑOS Y LANZACOHETES al mismo nivel todo el rato
+hasta llegar a 20k de lanza cohetes y 20k de laseres pequeños, esto te costará
+un tiempo.
 
 PASO 49:
 
-HASTA AQUI HEMOS GASTADO EXACTAMENTE EN INVESTIGACIONES UN TOTAL DE 12.822.200 EN METAL EQUIVALENTE y de esos casi 13 millones nos hemos gastado 2.242.800 EN METAL EQUIVALENTE SOLO PARA COSTEAR LAS INVESTIGACIONES DEL CAÑON DE PLASMA... en resumen:
+HASTA AQUI HEMOS GASTADO EXACTAMENTE EN INVESTIGACIONES UN TOTAL DE 12.822.200
+EN METAL EQUIVALENTE y de esos casi 13 millones nos hemos gastado 2.242.800 EN
+METAL EQUIVALENTE SOLO PARA COSTEAR LAS INVESTIGACIONES DEL CAÑON DE PLASMA...
+en resumen:
 
 10,6 millones para todas las investigaciones hasta aqui y
 2,2 millones solo para investigar plasma:
@@ -663,11 +703,31 @@ LASER 7,8,9 y 10
 PLASMA 1,2,3,4,5,6 y 7
 IONICA 3,4,5
 
-Esas 16 investigaciones con un coste de 2,2 millones solo han sido para hacer los plasmas, por eso os doy la siguiente opción... si no estais siendo atacados demasiado, podeis hacer los plasmas más adelante y recurrir a la defensa usando los gauss por ahora que ya completareis con plasmas, de esa manera podeis tener más rapidez en investigar otras cosas y avanzar y también por ahora ahorrais 2,2 millones, eso que cada cual lo decida, yo recomiendo que si no te atacan casi, que demores hacer los plasmas unos pasos más adelante hasta que estés más fuerte con las minas, es que cada plasma cuesta unos 250.000 de metal equivalente, son carísimos y aunque en defensa ganamos MUCHO... nos ralentizamos en la producción de minas e investigaciones, todo depende de lo que os ataquen...
+Esas 16 investigaciones con un coste de 2,2 millones solo han sido para hacer
+los plasmas, por eso os doy la siguiente opción... si no estais siendo atacados
+demasiado, podeis hacer los plasmas más adelante y recurrir a la defensa usando
+los gauss por ahora que ya completareis con plasmas, de esa manera podeis tener
+más rapidez en investigar otras cosas y avanzar y también por ahora ahorrais
+2,2 millones, eso que cada cual lo decida, yo recomiendo que si no te atacan
+casi, que demores hacer los plasmas unos pasos más adelante hasta que estés más
+fuerte con las minas, es que cada plasma cuesta unos 250.000 de metal
+equivalente, son carísimos y aunque en defensa ganamos MUCHO... nos
+ralentizamos en la producción de minas e investigaciones, todo depende de lo
+que os ataquen...
 
-Si os dais cuenta con 10,6 millones de metal equivalente se puede investigar prácticame todo... porque ya lo que queda es investigar hiperespacio para la red de investigación galáctica y hacer las megainvestigaciones de BLINDAJE-MILITAR-DEFENSA que quedarán finalmente a 16-15-13... Y SON UNA PASTA pero merecen la pena... sobre todo la de blindaje hasta nivel 14 cuanto antes por lo de los misiles interplanetarios que se chequea la tecno militar del atacante contra la tecno de blindaje nuestra (la tecno de defensa no vale para nada... no la subas nunca por encima de nivel 13, merece más la pena investigar en blindaje o gastartelo en defensas, flota o lo que sea)
+Si os dais cuenta con 10,6 millones de metal equivalente se puede investigar
+prácticame todo... porque ya lo que queda es investigar hiperespacio para la
+red de investigación galáctica y hacer las megainvestigaciones de
+BLINDAJE-MILITAR-DEFENSA que quedarán finalmente a 16-15-13... Y SON UNA PASTA
+pero merecen la pena... sobre todo la de blindaje hasta nivel 14 cuanto antes
+por lo de los misiles interplanetarios que se chequea la tecno militar del
+atacante contra la tecno de blindaje nuestra (la tecno de defensa no vale para
+nada... no la subas nunca por encima de nivel 13, merece más la pena investigar
+en blindaje o gastartelo en defensas, flota o lo que sea)
 
-SUBE A NIVEL 10 LOS LABORATORIOS DEL PLANETA PRINCIPAL, DEL PLANETA DEFENDER Y DEL PLANETA FORTALEZA BH (en el resto de los planetas que no haya ni un solo laboratorio, no sirven para nada), y ya puedes investigar con calidad:
+SUBE A NIVEL 10 LOS LABORATORIOS DEL PLANETA PRINCIPAL, DEL PLANETA DEFENDER Y
+DEL PLANETA FORTALEZA BH (en el resto de los planetas que no haya ni un solo
+laboratorio, no sirven para nada), y ya puedes investigar con calidad:
 
 TECNO HYPERESPACIO = 8
 TECNO RED DE INVESTIGACION GALACTICA = 2
@@ -676,7 +736,9 @@ TECNO MILITAR = 12
 TECNO DEFENSA = 12
 
 PASO 50:
-Ahora sube solo los laseres pequeños hasta 40k y sube los gauss hasta tener 500 gauss y sube el silo a nivel 7, esto te costará un mes aproximadamente y debes COMERCIAR, ATACAR INACTIVOS y en general, sacar todo el dinero para la defensa.
+Ahora sube solo los laseres pequeños hasta 40k y sube los gauss hasta tener 500
+gauss y sube el silo a nivel 7, esto te costará un mes aproximadamente y debes
+COMERCIAR, ATACAR INACTIVOS y en general, sacar todo el dinero para la defensa.
 
 Nuestra fortaleza ahora es la siguiente:
 
@@ -687,13 +749,34 @@ GAUSS = 500
 
 PASO 51:
 
-ESTE PASO PUEDES SALTARTELO PORQUE DESDE EL 7 DE AGOSTO GAMEFORGE HA SEGUIDO "JODIENDO" EL JUEGO Y HA PROHIBIDO QUE LAS SONDAS PUEDAN RECOLECTAR RECURSOS EN LOS ATAQUES... GAMEFORGE VA A GANAR DINERO CON EL NUMERO DE VISITAS EN SU PÁGINA, LA ESTRATEGIA QUE MÁS VISITAS DA ES LA DE SER FLOTEROS Y ESTAR PENDIENTES Y PEGADOS A INTERNET PARA QUE NO NOS DESTROCEN O PARA RECICLAR A OTROS LA FLOTA... LAS ESTRATEGIAS DE "OGAME SOSTENIBLE" DE CONECTARTE 15 A 30 MINUTOS Y JUGAR AL MÁS ALTO NIVEL CON FORTALEZAS Y DESPUES DE DEFENDIDO HACER ATAQUES PERO SIN MIEDO A QUE TE RECICLEN LA FLOTA... VAN EN CONTRA DEL NUMERO DE VISITAS DE GAMEFORGE A LA PÁGINA: para evitar esto Gameforge ha puesto en marcha varias medidas en el tiempo para que la estrategia de Defensas "Ogame Sostenible" no sea posible de llevarla a cabo... primero restringieron el comercio a un ratio minimo de 2:1,5:1 cuando antes podiamos comerciar a 1:1:1... después metieron universos de prueba donde las defensas hacen escombros... después metieron el SAC, ideal para destrozar defensas... después quitaron la posibilidad de las Sondas de recoger recursos... y lo UNICO que no es viable es que algún dia GAMEFORGE diga que las defensas dan escombros... eso sería ya lo peor de lo peor... En definitiva, a GameForge le importa UNA MIERDA la jugabilidad o el bienestar de sus jugadores, lo unico que busca es que el número de visitas de la página aumente como sea, a toda costa y para ello solo hay una estrategia para GAMEFORGE = hacer flota y estar luchando en modo ARCADE desde el primero dia... en definitiva, que OGAME no es de los mejores juegos de estrategia que podamos encontrar hoy en internet, porque sus diseñadores no quieren que sea asi... Y es muy triste.
+ESTE PASO PUEDES SALTARTELO PORQUE DESDE EL 7 DE AGOSTO GAMEFORGE HA SEGUIDO
+"JODIENDO" EL JUEGO Y HA PROHIBIDO QUE LAS SONDAS PUEDAN RECOLECTAR RECURSOS EN
+LOS ATAQUES... GAMEFORGE VA A GANAR DINERO CON EL NUMERO DE VISITAS EN SU
+PÁGINA, LA ESTRATEGIA QUE MÁS VISITAS DA ES LA DE SER FLOTEROS Y ESTAR
+PENDIENTES Y PEGADOS A INTERNET PARA QUE NO NOS DESTROCEN O PARA RECICLAR A
+OTROS LA FLOTA... LAS ESTRATEGIAS DE "OGAME SOSTENIBLE" DE CONECTARTE 15 A 30
+MINUTOS Y JUGAR AL MÁS ALTO NIVEL CON FORTALEZAS Y DESPUES DE DEFENDIDO HACER
+ATAQUES PERO SIN MIEDO A QUE TE RECICLEN LA FLOTA... VAN EN CONTRA DEL NUMERO
+DE VISITAS DE GAMEFORGE A LA PÁGINA: para evitar esto Gameforge ha puesto en
+marcha varias medidas en el tiempo para que la estrategia de Defensas "Ogame
+Sostenible" no sea posible de llevarla a cabo... primero restringieron el
+comercio a un ratio minimo de 2:1,5:1 cuando antes podiamos comerciar a
+1:1:1... después metieron universos de prueba donde las defensas hacen
+escombros... después metieron el SAC, ideal para destrozar defensas... después
+quitaron la posibilidad de las Sondas de recoger recursos... y lo UNICO que no
+es viable es que algún dia GAMEFORGE diga que las defensas dan escombros... eso
+sería ya lo peor de lo peor... En definitiva, a GameForge le importa UNA MIERDA
+la jugabilidad o el bienestar de sus jugadores, lo unico que busca es que el
+número de visitas de la página aumente como sea, a toda costa y para ello solo
+hay una estrategia para GAMEFORGE = hacer flota y estar luchando en modo ARCADE
+desde el primero dia... en definitiva, que OGAME no es de los mejores juegos de
+estrategia que podamos encontrar hoy en internet, porque sus diseñadores no
+quieren que sea asi... Y es muy triste.
 
 ... si el inactivo tiene muchos recursos, enviad tambien cargueros pequeños.
-
-El porcentaje de sondas es, hacer 1000 sondas por cada 10.000 de fodder
-
-en este caso el fodder es 40.000+20.000 = 60000---> 6.000 sondas para recolectar a tope el universo.
+El porcentaje de sondas es, hacer 1000 sondas por cada 10.000 de fodder en este
+caso el fodder es 40.000+20.000 = 60000---> 6.000 sondas para recolectar a tope
+el universo.
 
 PASO 52:
 AHORA debeis subir minas a 28:23:22---> es un mes dedicandote a subir minas exclusivamente.
@@ -705,52 +788,85 @@ TECNO MILITAR = 13
 TECNO DEFENSA = 13
 
 PASO 54:
-Ahora tienes una defensa razonable, has tenido FE siguiendo todos los pasos uno a uno y ahora ves los resultados, rara vez te atacan, estas en una buena alianza y subiendo y comerciando con todo el mundo, y ganando recursos a diario que mandas con cargueros pequeños todos los dias al planeta principal.
+Ahora tienes una defensa razonable, has tenido FE siguiendo todos los pasos uno
+a uno y ahora ves los resultados, rara vez te atacan, estas en una buena
+alianza y subiendo y comerciando con todo el mundo, y ganando recursos a diario
+que mandas con cargueros pequeños todos los dias al planeta principal.
 
 <FORTALEZA>
-LANZAS = 20K
-LPs = 40k
-GAUSS = 500
+LANZAS  =  20K
+LPs     =  40k
+GAUSS   =  500
 SILO NIVEL 4 CON 38 INTERCEPTORES Y 1 INTERPLANETARIO
 LASER GRANDE = 10 (para engordar el reporte del enemigo e impresionarlo)
 IONICO = 10 (idem de lo mismo)
 PLASMAS = 10 (idem de lo mismo)
 DOS CUPULAS
 
-esta fortaleza es una fortaleza de 60k de fodder (fodder = suma de los lanzacohetes+laseres peques) y se le puede denominar ya Bunkercito... lo de antes era una trinchera, hasta que no lleguemos a los 100k de fodder no se le puede llamar BUNKER...
+esta fortaleza es una fortaleza de 60k de fodder (fodder = suma de los
+lanzacohetes+laseres peques) y se le puede denominar ya Bunkercito... lo de
+antes era una trinchera, hasta que no lleguemos a los 100k de fodder no se le
+puede llamar BUNKER...
 
-Ahora haremos lo siguiente antes de seguir, y esto os ASEGURO QUE OS VA A DOLER, pero MERECE LA PENA y teneis que hacerlo ahora antes de hacer más DEFENSAS. debes hacer estas tres misiones por este orden:
+Ahora haremos lo siguiente antes de seguir, y esto os ASEGURO QUE OS VA A
+DOLER, pero MERECE LA PENA y teneis que hacerlo ahora antes de hacer más
+DEFENSAS. debes hacer estas tres misiones por este orden:
+
+-----------------------------------------------------------------
 
 MISION 1 = TECNO DE BLINDAJE NIVEL 14
-
 MISION 2 = NANOS NIVEL 3
-
 MISION 3 = "SILO DE MISILES NIVEL 9 CON 88 INTERCEPTORES Y 1 INTERPLANETARIO" EN LA FORTALEZA BH
 
-[LAS COLONIAS DEBEN TENER UN SILO NIVEL 7 CON 70 INTERCEPTORES EXCEPTO LA PRINCIPAL QUE TIENE 60 INTERCEPTORES Y 5 INTERPLANETARIOS (para reventar defensas puntuales de inactivos) y la DEFENDER que tiene 50 INTERCEPTORES Y 10 INTERPLANETARIOS.]
+[LAS COLONIAS DEBEN TENER UN SILO NIVEL 7 CON 70 INTERCEPTORES EXCEPTO LA
+PRINCIPAL QUE TIENE 60 INTERCEPTORES Y 5 INTERPLANETARIOS (para reventar
+defensas puntuales de inactivos) y la DEFENDER que tiene 50 INTERCEPTORES Y 10
+INTERPLANETARIOS.]
 
 PASO 55:
-Ahora es el momento de subir los GAUSS hasta tener finalmente 1.000 gauss como sea... lo cual nos permite destruir 10 EDLM sin despeinarnos. TODO EL CRISTAL lo dedicais a los GAUSS y con lo que quede de metal haceis LANZACOHETES como locos.
+Ahora es el momento de subir los GAUSS hasta tener finalmente 1.000 gauss como
+sea... lo cual nos permite destruir 10 EDLM sin despeinarnos. TODO EL CRISTAL
+lo dedicais a los GAUSS y con lo que quede de metal haceis LANZACOHETES como
+locos.
 
 PASO 56:
-Ahora debeis subir los LANZACOHETES hasta tener 50k de lanzacohetes y debeis subir los laseres pequeños hasta tener 100k de laseres pequeños. La forma de hacerlo es la siguiente: le dais a hacer Laseres pequeños y le poneis 999 laseres... asi hasta que nos quedemos sin cristal y entonces ya le pones el 999 en lanzacohetes... y asi vas subiendo, estarás 2 meses haciendo esto. 15minutos: Entras en la cuenta, envias todos los recursos desde los planetas al planeta fortaleza enviando los 100 cargueros pequeños (envia siempre los 100, no calcules el numero justo nunca... tu tiempo es valioso y el ahorro en deuterio es insignificante). Y asi entras, click click click... 100 cargueros, transportar, a planeta fortaleza... y cuando lleguen los recursos en una horita al planeta fortaleza.. lo pones a hacer laseres y con lo de metal sobrante hacer lanzacohetes, hasta:
+Ahora debeis subir los LANZACOHETES hasta tener 50k de lanzacohetes y debeis
+subir los laseres pequeños hasta tener 100k de laseres pequeños. La forma de
+hacerlo es la siguiente: le dais a hacer Laseres pequeños y le poneis 999
+laseres... asi hasta que nos quedemos sin cristal y entonces ya le pones el 999
+en lanzacohetes... y asi vas subiendo, estarás 2 meses haciendo esto.
+15minutos: Entras en la cuenta, envias todos los recursos desde los planetas al
+planeta fortaleza enviando los 100 cargueros pequeños (envia siempre los 100,
+no calcules el numero justo nunca... tu tiempo es valioso y el ahorro en
+deuterio es insignificante). Y asi entras, click click click... 100 cargueros,
+transportar, a planeta fortaleza... y cuando lleguen los recursos en una horita
+al planeta fortaleza.. lo pones a hacer laseres y con lo de metal sobrante
+hacer lanzacohetes, hasta:
 
-100k de laseres pequeños
-50k de lanzacohetes
+LM = 50k | LP = 100k
 
 la fortaleza BLACK HOLE queda de esta manera:
+LANZACOHETES  = 50K
 LASER PEQUEÑO = 100K
-LANZACOHETES = 50K
 GAUSS = 1K
 
 PASO 57:
-AHORA es el momento de hacer una MINIFLOTA DE ALTA RENTABILIDAD, compuesta por 300 naves de batalla, 500 cruceros,1000 cazas pesados y 1500 cazas ligeros, y ponerte a reciclar flotitas de jugadores con pocos puntos en flota. Esta flota no hace nunca FS, vive segura en el bunker y ayuda en su defensa, asi no perderás tiempo de tu vida para llegar justo a tiempo del fleet save (FS).
+AHORA es el momento de hacer una MINIFLOTA DE ALTA RENTABILIDAD, compuesta por
+300 naves de batalla,
+500 cruceros,
+1000 cazas pesados y
+1500 cazas ligeros, y
+ponerte a reciclar flotitas de jugadores con pocos puntos en flota. Esta flota
+no hace nunca FS, vive segura en el bunker y ayuda en su defensa, asi no
+perderás tiempo de tu vida para llegar justo a tiempo del fleet save (FS).
 
 Tus ingresos SON ENORMES vienen dados por:
 A: MINAS (aprox 5 millones diarios en metal equivalente)
 B: COMERCIO (aprox 1 millones diario minimo en comercio)
-C: ATACAR INACTIVOS CON SONDAS(ya no es posible con sondas desde el 7 de AGOSTO DEL 2006, fecha de la verguenza para GAMEFORGE) Y CARGUEROS (aprox 1 millon diario)
-D: RECICLADAS CON LA FLOTA DE MINIRENTABILIDAD. (aprox 1 millon diario de medio de prorrateo de todas las cazas de esa semana)
+C: ATACAR INACTIVOS CON SONDAS(ya no es posible con sondas desde el 7 de AGOSTO
+DEL 2006, fecha de la verguenza para GAMEFORGE) Y CARGUEROS (aprox 1 millon diario)
+D: RECICLADAS CON LA FLOTA DE MINIRENTABILIDAD. (aprox 1 millon diario de medio
+de prorrateo de todas las cazas de esa semana)
 
 En total consigues unos 8 millones diarios por lo bajo de metal equivalente... (osea, una burrada...)
 
@@ -760,22 +876,31 @@ En total consigues unos 8 millones diarios por lo bajo de metal equivalente... (
 
 y si fueran lanzas aun salen más...
 
-
 PASO 58:
-FELICIDADES !!!!!!!!!!!!!!!!!! Ahora eres una BALLENA con todas las de la ley, y dura de matar, debes haber subido en el ranking que da miedo y debes intentar entrar en la alianza con más puntos de flota por miembros ES ESENCIAL ESTO, RECUERDALO, ES VITAL PARA TU SUPERVIVENCIA...!!!
+FELICIDADES !!!!!!!!!!!!!!!!!! Ahora eres una BALLENA con todas las de la ley,
+y dura de matar, debes haber subido en el ranking que da miedo y debes intentar
+entrar en la alianza con más puntos de flota por miembros ES ESENCIAL ESTO,
+RECUERDALO, ES VITAL PARA TU SUPERVIVENCIA...!!!
 
 Ahora tienes 3 enemigos para tu cuenta, por este orden:
 
-A: Un GO o Administrador que te banee la cuenta, es el terror más grande del universo, cuida no hacer más de 6 ataques por planetas que despues se paga con baneo por bashing, comerciar a ratio minimo 2,1:1,6:1 y en general ser muy LEGAL y si necesitas cualquier aclaración avisar al GO de turno. Un BANEO es el terror más grande de una cuenta fortaleza, nada puede destruirla más que un baneo de cuenta.
+A: Un GO o Administrador que te banee la cuenta, es el terror más grande del
+universo, cuida no hacer más de 6 ataques por planetas que despues se paga con
+baneo por bashing, comerciar a ratio minimo 2,1:1,6:1 y en general ser muy
+LEGAL y si necesitas cualquier aclaración avisar al GO de turno. Un BANEO es el
+terror más grande de una cuenta fortaleza, nada puede destruirla más que un
+baneo de cuenta.
 
 B: Un SAC: Pues bien, para defendernos del SAC la unica posibilidad es subir el bunker hasta tener:
 
 BLACK HOLE ANTI SAC
-LASERES PEQUEÑOS = 400K
-LANZACOHETES = 100K
-GAUSS = 5K
+  LANZACOHETES = 100K
+  LASERES PEQUEÑOS = 400K
+  GAUSS = 5K
 
-La relación de Gauss a fodder es que por cada 500.000 de fodder --> 5.000 gauss... por tanto la relacion es 100:1 de fodder a gauss. Con 5.000 gauss podemos destruir 50 EDLM sin despeinarnos.
+La relación de Gauss a fodder es que por cada 500.000 de fodder --> 5.000
+gauss... por tanto la relacion es 100:1 de fodder a gauss. Con 5.000 gauss
+podemos destruir 50 EDLM sin despeinarnos.
 
 Por ahora sube los GAUSS A 2K Y SUBE LOS LASERES PEQUES HASTA TENER 150K, con lo cual quedará que:
 
@@ -795,9 +920,15 @@ TENEMOS QUE NOS FALTAN 3K DE GAUSS, 250 LASERES PEQUES Y 50K DE LANZACOHETES.
 
 pongamos que nos faltan 250+50+65 = 365k de fodder
 
-y cada més conseguimos recursos para hacer 100k de fodder, por tanto en unos 3 meses y medio más o menos podemos tener una fortaleza ANTI SAC, y la llamamos ANTI SAC porque destroza casi toda la flota ENEMIGA o TODA, haciendo que el ataque del SAC sea un desastre total en rentabilidad para el enemigo...
+y cada més conseguimos recursos para hacer 100k de fodder, por tanto en unos 3
+meses y medio más o menos podemos tener una fortaleza ANTI SAC, y la llamamos
+ANTI SAC porque destroza casi toda la flota ENEMIGA o TODA, haciendo que el
+ataque del SAC sea un desastre total en rentabilidad para el enemigo...
 
-C: Un ATAQUE DE COLONIAS MISILERAS: colonias que se unen para lanzarte misiles a tu planeta fortaleza y destruirtelas (suelen lanzar de 200 a 1000 misiles de media) En las colonias silo nivel 7 y en el bunker silo nivel 9 cueste lo que cueste, lo silos son FUNDAMENTALES.
+C: Un ATAQUE DE COLONIAS MISILERAS: colonias que se unen para lanzarte misiles
+a tu planeta fortaleza y destruirtelas (suelen lanzar de 200 a 1000 misiles de
+media) En las colonias silo nivel 7 y en el bunker silo nivel 9 cueste lo que
+cueste, lo silos son FUNDAMENTALES.
 
 NO MERECE LA PENA SILO NIVEL 10 DE BASE... ANTES VA NANOS Y BLINDAJE
 
@@ -814,7 +945,9 @@ el orden es el siguiente:
 8.- DESPUES MILITAR 15
 9.- DESPUES SILO 10
 
-El secreto para una buena defensa de misiles interplanetarios es tener una buena colonia DEFENDER para destruirles los misiles en el silo antes de que salgan o bien nos interesa para que los lance pero todos de golpe no.
+El secreto para una buena defensa de misiles interplanetarios es tener una
+buena colonia DEFENDER para destruirles los misiles en el silo antes de que
+salgan o bien nos interesa para que los lance pero todos de golpe no.
 
 Si tenemos una fortaleza como:
 
@@ -829,19 +962,65 @@ Los puntos por mayor a manor importancia para defender una fortaleza de misiles 
 -BLINDAJE NIVEL 15
 -SILO NIVEL 10
 
-Los nanos nivel 5 cuestan un total de 16 millones de metal, 8 de cristal y 1,6 de deuterio... usa la investigacion de BLINDAJE NIVEL 15 para almacenar temporalmente los 16 millones de metal, y mientras que no llegas usa el deposito de metal para hacerlo y después cancelarlo y alli guardar metal a saco... son trucos que nos salvan la vida...
+Los nanos nivel 5 cuestan un total de 16 millones de metal, 8 de cristal y 1,6
+de deuterio... usa la investigacion de BLINDAJE NIVEL 15 para almacenar
+temporalmente los 16 millones de metal, y mientras que no llegas usa el
+deposito de metal para hacerlo y después cancelarlo y alli guardar metal a
+saco... son trucos que nos salvan la vida...
 
-Con más de 200k de fodder, NANOS NIVEL 5, BLINDAJE NIVEL 15 y UN SILO NIVEL 9-10... podemos vivir con tranquilidad... Con NANOS 5 un misil interceptor se hace en 27 segundos, por tanto los 100 interceptores los podemos reponer en 45 minutos !!!!!!!!!!!!!!!!!
+Con más de 200k de fodder, NANOS NIVEL 5, BLINDAJE NIVEL 15 y UN SILO NIVEL
+9-10... podemos vivir con tranquilidad... Con NANOS 5 un misil interceptor se
+hace en 27 segundos, por tanto los 100 interceptores los podemos reponer en 45
+minutos !!!!!!!!!!!!!!!!!
 
-El secreto es el siguiente: te haces una lista de las colonias misileras atacantes, anotas en una tabla las coordenadas de la colonia, las coordenadas del planeta principal de ese jugador enemigo, su tecno militar, sus nanos y su nivel de silo. Ordenas los enemigos por este orden: primero por sus nanos, despues por su nivel de silo y por ultimo por su tecnologia, asi tienes numerados desde el enemigo más peligroso hasta el que solo vino para apoyar con una colonia de mierda para lanzar algunos misiles... pues bien, justo antes de irte a dormir, mandas sondas a los 20 planetas más peligrosos, y miras los misiles que tienen. Durante todo este tiempo no puedes dejar que los enemigos hagan defensas en sus planetas, dejarlos secos de defensaS en sus planetas... todas las defensas destrozadas, asi tus interplanetarios irán directamente contra sus interplanetarios. Pues bien, antes de dormir envias las sondas y miras los misiles INTERPLANETARIOS que tienen en los silos... y entonces lanzas desde la colonia DEFENDER tus misiles contra los enemigos... algunos de tus enemigos estarán ONLINE y lanzaran los interplanetarios de los silos, es perfecto porque todavia no te has acostado y puedes reponer rapidamente con nanos 5 los interceptores destruidos... pero los enemigos que no están conectados les destrozas todos los misiles. Entonces esperas pacientemente unos pocos minutos a que lleguen los interplanetarios enemigos y destrocen tus interceptores y justo al hacer eso dejas a hacer INTERPLANETARIOS, y los silos enemigos han sido vaciados... y a dormir... a la mañana siguiente mucho tienen que haber corrido para hacer daño y sobrepasar otra vez los 100 interceptores y aunque asi fuera y te hubiera destruido defensas, tu les estas reventando interplanetarios que cuestan 50k de recursos por miserables interceptores que cuestan menos de la cuarta parte y si ya les destruyes interplanetarios con los tuyos a razón 1 a 10, osea, les rompes 10 interplanetarios por uno tuyo... es decir 50k de recursos tuyos rompen 500k del enemigo !!! pues va a ser la ruina para tus enemigos, y todo esto gracias a NANOS 5.
+El secreto es el siguiente: te haces una lista de las colonias misileras
+atacantes, anotas en una tabla las coordenadas de la colonia, las coordenadas
+del planeta principal de ese jugador enemigo, su tecno militar, sus nanos y su
+nivel de silo. Ordenas los enemigos por este orden: primero por sus nanos,
+despues por su nivel de silo y por ultimo por su tecnologia, asi tienes
+numerados desde el enemigo más peligroso hasta el que solo vino para apoyar con
+una colonia de mierda para lanzar algunos misiles... pues bien, justo antes de
+irte a dormir, mandas sondas a los 20 planetas más peligrosos, y miras los
+misiles que tienen. Durante todo este tiempo no puedes dejar que los enemigos
+hagan defensas en sus planetas, dejarlos secos de defensaS en sus planetas...
+todas las defensas destrozadas, asi tus interplanetarios irán directamente
+contra sus interplanetarios. Pues bien, antes de dormir envias las sondas y
+miras los misiles INTERPLANETARIOS que tienen en los silos... y entonces lanzas
+desde la colonia DEFENDER tus misiles contra los enemigos... algunos de tus
+enemigos estarán ONLINE y lanzaran los interplanetarios de los silos, es
+perfecto porque todavia no te has acostado y puedes reponer rapidamente con
+nanos 5 los interceptores destruidos... pero los enemigos que no están
+conectados les destrozas todos los misiles. Entonces esperas pacientemente unos
+pocos minutos a que lleguen los interplanetarios enemigos y destrocen tus
+interceptores y justo al hacer eso dejas a hacer INTERPLANETARIOS, y los silos
+enemigos han sido vaciados... y a dormir... a la mañana siguiente mucho tienen
+que haber corrido para hacer daño y sobrepasar otra vez los 100 interceptores y
+aunque asi fuera y te hubiera destruido defensas, tu les estas reventando
+interplanetarios que cuestan 50k de recursos por miserables interceptores que
+cuestan menos de la cuarta parte y si ya les destruyes interplanetarios con los
+tuyos a razón 1 a 10, osea, les rompes 10 interplanetarios por uno tuyo... es
+decir 50k de recursos tuyos rompen 500k del enemigo !!! pues va a ser la ruina
+para tus enemigos, y todo esto gracias a NANOS 5.
 
-Como decia SUN TZU: "PRIMERO HACERNOS INVENCIBLES"... Ahora vamos a "CONSEGUIR VICTORIAS"... para ello haremos LUNAS, explicaremos todo sobre las lunas, sobre SAC, PHALANX,sobre salto cuantico, trucos para engañar a los enemigos y cazarlos... Maniobra IVAN EL LOCO... etc, los mejores trucos de los mejores estrategas de habla hispana para arrasar el universo.
+Como decia SUN TZU: "PRIMERO HACERNOS INVENCIBLES"... Ahora vamos a "CONSEGUIR
+VICTORIAS"... para ello haremos LUNAS, explicaremos todo sobre las lunas, sobre
+SAC, PHALANX,sobre salto cuantico, trucos para engañar a los enemigos y
+cazarlos... Maniobra IVAN EL LOCO... etc, los mejores trucos de los mejores
+estrategas de habla hispana para arrasar el universo.
 
-Os podeis plantar con 25k de gauss, 400k lps, 100k lanzacohetes, silo 10, 98 interceptores, 1 interplanetario, NANOS 5, MILITAR 15, BLINDAJE 15 (y subiendo) y DEFENSA 13...
+Os podeis plantar con 25k de gauss, 400k lps, 100k lanzacohetes, silo 10, 98
+interceptores, 1 interplanetario, NANOS 5, MILITAR 15, BLINDAJE 15 (y subiendo)
+y DEFENSA 13...
 
-a partir de ahi podeis hacer flota MASIVAMENTE que dormirá en la fortaleza y aumentará su resistencia y defensa... o bien seguir haciendo defensas o minas hasta el infinito... cada cual elija su propio KUNG FU GALACTICO o estilo de jugar a OGAME.
+a partir de ahi podeis hacer flota MASIVAMENTE que dormirá en la fortaleza y
+aumentará su resistencia y defensa... o bien seguir haciendo defensas o minas
+hasta el infinito... cada cual elija su propio KUNG FU GALACTICO o estilo de
+jugar a OGAME.
 
-si alguien cree que esta guia no es posible, que se pase por mis cuentas de prueba que tengo en varios universos, por ejemplo en el universo 7 en las coordenadas 3:36:10 PLANETA, y mirad si lo que digo es cierto, porque una imagen (en este caso un espionaje) valen más que mil palabras...
+si alguien cree que esta guia no es posible, que se pase por mis cuentas de
+prueba que tengo en varios universos, por ejemplo en el universo 7 en las
+coordenadas 3:36:10 PLANETA, y mirad si lo que digo es cierto, porque una
+imagen (en este caso un espionaje) valen más que mil palabras...
 
 -------------------------------------------------------------------------------------
 Aqui teneis un listado de una cuenta BALLENA-ORCA a nivel medio para que tengais una referencia...
