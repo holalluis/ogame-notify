@@ -1,32 +1,36 @@
 GUIA PASO A PASO PARA LLEGAR AL TOP 100 EN OGAME
+================================================
+
 La estrategia de Belen Hispana se resume en las siguientes dos ideas:
 
-1.- OGAME SOSTENIBLE: El recurso más valioso que existe en OGAME es nuestro
-tiempo de juego, no es mejor el jugador que le echa más horas sino el que
-echándole menos tiempo llega hasta arriba del todo. Además de que mucha gente
-no puede estar pendiente dia a dia del juego y acabar esclavizada por los
-horarios del Fleet Save de la flota (FS). A esto de jugar unas pocas horas y
-llevar la cuenta adelante y no ser esclavos del OGAME lo llamamos OGAME
-SOSTENIBLE.
+1. OGAME SOSTENIBLE: El recurso más valioso que existe en OGAME es nuestro
+   tiempo de juego, no es mejor el jugador que le echa más horas sino el que
+   echándole menos tiempo llega hasta arriba del todo. Además de que mucha
+   gente no puede estar pendiente dia a dia del juego y acabar esclavizada por
+   los horarios del Fleet Save de la flota (FS). A esto de jugar unas pocas
+   horas y llevar la cuenta adelante y no ser esclavos del OGAME lo llamamos
+   OGAME SOSTENIBLE.
 
-2.- PRIMERO APRENDE A SER "INVENCIBLE": Un tiburón hace flota desde el
-principio y no hace defensas, tiene permanentemente la flota en FLEET SAVE y
-solo sale a la vista para atacar, reciclar y volver a esconderse, es un
-depredador nato que ha invertido todo en flota y confia en el FS para salvar su
-flota de los enemigos. Una tortuga solo hace Minas y defensa, y comercia, pero
-no tiene flota. Una ballena sin embargo al principio hace minas y defensa como
-si fuera una Tortuga... y cuando llega a cierto nivel de defensas (UNA
-FORTALEZA BH) empieza a hacer flota en cantidades que puedas ser defendidas por
-la fortaleza y asi crecer en flota para convertirse en una ORCA o SIRENA, hasta
-llegar a ser TOP1 = KWISATZ HADERACH de toda la GALAXIA (DUNE). Hacer flota es
-el destino final de una cuenta, las TORTUGAS no tienen sentido porque ellas
-jamás harán flota... el problema es que un TIBURÓN hace flota nada más empezar
-y toda su cuenta depende de que no le pillen esa flota, mientras que una
-BALLENA-ORCA primero hace una fortaleza y después hace una flota que deja
-estacionada en esa fortaleza que aumenta aun más la defensa.Los tiburones se
-equivocan porque hacen la flota demasiado pronto y eso hace que sean reciclados
-y perder el trabajo de muchos meses... Mi estrategia es primero hacer defensas
-y despues flota se basa en esta frase de Sun Tzu (EL ARTE DE LA GUERRA):
+2. PRIMERO APRENDE A SER "INVENCIBLE": Un tiburón hace flota desde el
+   principio y no hace defensas, tiene permanentemente la flota en FLEET SAVE
+   y solo sale a la vista para atacar, reciclar y volver a esconderse, es un
+   depredador nato que ha invertido todo en flota y confia en el FS para
+   salvar su flota de los enemigos. Una tortuga solo hace Minas y defensa, y
+   comercia, pero no tiene flota. Una ballena sin embargo al principio hace
+   minas y defensa como si fuera una Tortuga... y cuando llega a cierto nivel
+   de defensas (UNA FORTALEZA BH) empieza a hacer flota en cantidades que
+   puedas ser defendidas por la fortaleza y asi crecer en flota para
+   convertirse en una ORCA o SIRENA, hasta llegar a ser TOP1 = KWISATZ
+   HADERACH de toda la GALAXIA (DUNE). Hacer flota es el destino final de una
+   cuenta, las TORTUGAS no tienen sentido porque ellas jamás harán flota... el
+   problema es que un TIBURÓN hace flota nada más empezar y toda su cuenta
+   depende de que no le pillen esa flota, mientras que una BALLENA-ORCA
+   primero hace una fortaleza y después hace una flota que deja estacionada en
+   esa fortaleza que aumenta aun más la defensa.Los tiburones se equivocan
+   porque hacen la flota demasiado pronto y eso hace que sean reciclados y
+   perder el trabajo de muchos meses... Mi estrategia es primero hacer
+   defensas y despues flota se basa en esta frase de Sun Tzu (EL ARTE DE LA
+   GUERRA):
 
 "Antiguamente, los guerreros expertos se hacían primero invencibles y esperaban
 el momento de debilidad del enemigo. La invencibilidad reside en la defensa, la
@@ -812,8 +816,7 @@ Ahora haremos lo siguiente antes de seguir, y esto os ASEGURO QUE OS VA A
 DOLER, pero MERECE LA PENA y teneis que hacerlo ahora antes de hacer más
 DEFENSAS. debes hacer estas tres misiones por este orden:
 
------------------------------------------------------------------
-
+-------------------------------------
 MISION 1 = TECNO DE BLINDAJE NIVEL 14
 MISION 2 = NANOS NIVEL 3
 MISION 3 = "SILO DE MISILES NIVEL 9 CON 88 INTERCEPTORES Y 1 INTERPLANETARIO" EN LA FORTALEZA BH
@@ -846,27 +849,26 @@ hacer lanzacohetes, hasta:
 LM = 50k | LP = 100k
 
 la fortaleza BLACK HOLE queda de esta manera:
-LANZACOHETES  = 50K
-LASER PEQUEÑO = 100K
-GAUSS = 1K
+LM = 50K | LP = 100K | GAUSS = 1K
 
 PASO 57:
-AHORA es el momento de hacer una MINIFLOTA DE ALTA RENTABILIDAD, compuesta por
-300 naves de batalla,
-500 cruceros,
-1000 cazas pesados y
-1500 cazas ligeros, y
-ponerte a reciclar flotitas de jugadores con pocos puntos en flota. Esta flota
-no hace nunca FS, vive segura en el bunker y ayuda en su defensa, asi no
-perderás tiempo de tu vida para llegar justo a tiempo del fleet save (FS).
+  AHORA es el momento de hacer una MINIFLOTA DE ALTA RENTABILIDAD, compuesta por
+  - 300 naves de batalla
+  - 500 cruceros
+  - 1000 cazas pesados
+  - 1500 cazas ligeros
+  ponerte a reciclar flotitas de jugadores con pocos puntos en flota. Esta flota
+  no hace nunca FS, vive segura en el bunker y ayuda en su defensa, asi no
+  perderás tiempo de tu vida para llegar justo a tiempo del fleet save (FS).
 
 Tus ingresos SON ENORMES vienen dados por:
-A: MINAS (aprox 5 millones diarios en metal equivalente)
-B: COMERCIO (aprox 1 millones diario minimo en comercio)
-C: ATACAR INACTIVOS CON SONDAS(ya no es posible con sondas desde el 7 de AGOSTO
-DEL 2006, fecha de la verguenza para GAMEFORGE) Y CARGUEROS (aprox 1 millon diario)
-D: RECICLADAS CON LA FLOTA DE MINIRENTABILIDAD. (aprox 1 millon diario de medio
-de prorrateo de todas las cazas de esa semana)
+- A: MINAS (aprox 5 millones diarios en metal equivalente)
+- B: COMERCIO (aprox 1 millones diario minimo en comercio)
+- C: ATACAR INACTIVOS CON SONDAS(ya no es posible con sondas desde el 7 de
+  AGOSTO DEL 2006, fecha de la verguenza para GAMEFORGE) Y CARGUEROS (aprox 1
+  millon diario)
+- D: RECICLADAS CON LA FLOTA DE MINIRENTABILIDAD. (aprox 1 millon diario de
+  medio de prorrateo de todas las cazas de esa semana)
 
 En total consigues unos 8 millones diarios por lo bajo de metal equivalente... (osea, una burrada...)
 
@@ -877,7 +879,7 @@ En total consigues unos 8 millones diarios por lo bajo de metal equivalente... (
 y si fueran lanzas aun salen más...
 
 PASO 58:
-FELICIDADES !!!!!!!!!!!!!!!!!! Ahora eres una BALLENA con todas las de la ley,
+FELICIDADES! Ahora eres una BALLENA con todas las de la ley,
 y dura de matar, debes haber subido en el ranking que da miedo y debes intentar
 entrar en la alianza con más puntos de flota por miembros ES ESENCIAL ESTO,
 RECUERDALO, ES VITAL PARA TU SUPERVIVENCIA...!!!
@@ -1121,3 +1123,6 @@ Aqui estoy para ayudar y compartir,
 un beso para la buena gente de OGAME que aun cree que esto es un juego de Estrategia y no un mata-mata Arcade de navecitas...
 
 belen hispana
+
+-----------------
+vim: ft=markdown:
