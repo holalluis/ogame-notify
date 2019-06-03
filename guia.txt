@@ -815,51 +815,45 @@ puede llamar BUNKER...
 Ahora haremos lo siguiente antes de seguir, y esto os ASEGURO QUE OS VA A
 DOLER, pero MERECE LA PENA y teneis que hacerlo ahora antes de hacer más
 DEFENSAS. debes hacer estas tres misiones por este orden:
-
--------------------------------------
-MISION 1 = TECNO DE BLINDAJE NIVEL 14
-MISION 2 = NANOS NIVEL 3
-MISION 3 = "SILO DE MISILES NIVEL 9 CON 88 INTERCEPTORES Y 1 INTERPLANETARIO" EN LA FORTALEZA BH
+- 1 = TECNO DE BLINDAJE NIVEL 14
+- 2 = NANOS NIVEL 3
+- 3 = SILO DE MISILES NIVEL 9 CON 88 INTERCEPTORES Y 1 INTERPLANETARIO EN LA
+  FORTALEZA BH
 
 [LAS COLONIAS DEBEN TENER UN SILO NIVEL 7 CON 70 INTERCEPTORES EXCEPTO LA
 PRINCIPAL QUE TIENE 60 INTERCEPTORES Y 5 INTERPLANETARIOS (para reventar
 defensas puntuales de inactivos) y la DEFENDER que tiene 50 INTERCEPTORES Y 10
 INTERPLANETARIOS.]
 
-PASO 55:
-Ahora es el momento de subir los GAUSS hasta tener finalmente 1.000 gauss como
-sea... lo cual nos permite destruir 10 EDLM sin despeinarnos. TODO EL CRISTAL
-lo dedicais a los GAUSS y con lo que quede de metal haceis LANZACOHETES como
-locos.
+55. Ahora es el momento de subir los GAUSS hasta tener finalmente 1.000 gauss
+como sea... lo cual nos permite destruir 10 EDLM sin despeinarnos. TODO EL
+CRISTAL lo dedicais a los GAUSS y con lo que quede de metal haceis LANZACOHETES
+como locos.
 
-PASO 56:
-Ahora debeis subir los LANZACOHETES hasta tener 50k de lanzacohetes y debeis
-subir los laseres pequeños hasta tener 100k de laseres pequeños. La forma de
-hacerlo es la siguiente: le dais a hacer Laseres pequeños y le poneis 999
-laseres... asi hasta que nos quedemos sin cristal y entonces ya le pones el 999
-en lanzacohetes... y asi vas subiendo, estarás 2 meses haciendo esto.
+56.  Ahora debeis subir los LANZACOHETES hasta tener 50k de lanzacohetes y
+debeis subir los laseres pequeños hasta tener 100k de laseres pequeños. La
+forma de hacerlo es la siguiente: le dais a hacer Laseres pequeños y le poneis
+999 laseres... asi hasta que nos quedemos sin cristal y entonces ya le pones el
+999 en lanzacohetes... y asi vas subiendo, estarás 2 meses haciendo esto.
 15minutos: Entras en la cuenta, envias todos los recursos desde los planetas al
 planeta fortaleza enviando los 100 cargueros pequeños (envia siempre los 100,
 no calcules el numero justo nunca... tu tiempo es valioso y el ahorro en
 deuterio es insignificante). Y asi entras, click click click... 100 cargueros,
 transportar, a planeta fortaleza... y cuando lleguen los recursos en una horita
 al planeta fortaleza.. lo pones a hacer laseres y con lo de metal sobrante
-hacer lanzacohetes, hasta:
-
-LM = 50k | LP = 100k
+hacer lanzacohetes, hasta: LM = 50k | LP = 100k
 
 la fortaleza BLACK HOLE queda de esta manera:
 LM = 50K | LP = 100K | GAUSS = 1K
 
-PASO 57:
-  AHORA es el momento de hacer una MINIFLOTA DE ALTA RENTABILIDAD, compuesta por
+57. AHORA es el momento de hacer una MINIFLOTA DE ALTA RENTABILIDAD:
   - 300 naves de batalla
   - 500 cruceros
   - 1000 cazas pesados
-  - 1500 cazas ligeros
-  ponerte a reciclar flotitas de jugadores con pocos puntos en flota. Esta flota
-  no hace nunca FS, vive segura en el bunker y ayuda en su defensa, asi no
-  perderás tiempo de tu vida para llegar justo a tiempo del fleet save (FS).
+  - 1500 cazas ligeros ponerte a reciclar flotitas de jugadores con pocos
+    puntos en flota. Esta flota no hace nunca FS, vive segura en el bunker y
+    ayuda en su defensa, asi no perderás tiempo de tu vida para llegar justo a
+    tiempo del fleet save (FS).
 
 Tus ingresos SON ENORMES vienen dados por:
 - A: MINAS (aprox 5 millones diarios en metal equivalente)
@@ -870,9 +864,11 @@ Tus ingresos SON ENORMES vienen dados por:
 - D: RECICLADAS CON LA FLOTA DE MINIRENTABILIDAD. (aprox 1 millon diario de
   medio de prorrateo de todas las cazas de esa semana)
 
-En total consigues unos 8 millones diarios por lo bajo de metal equivalente... (osea, una burrada...)
+En total consigues unos 8 millones diarios por lo bajo de metal equivalente...
+(osea, una burrada...)
 
-8 MILLONES DE METAL EQUIVALENTE SON UNOS 240 millones al mes, lo cual te permite sin despeinarte hacer un total de:
+8 MILLONES DE METAL EQUIVALENTE SON UNOS 240 millones al mes, lo cual te
+permite sin despeinarte hacer un total de:
 
 240.000.000 / (LASER = 1500+500x1,5) = 106k mensuales !!!!!!!!!!!!
 
@@ -895,28 +891,28 @@ baneo de cuenta.
 
 B: Un SAC: Pues bien, para defendernos del SAC la unica posibilidad es subir el bunker hasta tener:
 
-BLACK HOLE ANTI SAC
-  LANZACOHETES = 100K
-  LASERES PEQUEÑOS = 400K
-  GAUSS = 5K
+----------------------------------------------
+BLACK HOLE ANTI SAC: {LM:100K, LP:400K, GA:5K}
+----------------------------------------------
 
 La relación de Gauss a fodder es que por cada 500.000 de fodder --> 5.000
 gauss... por tanto la relacion es 100:1 de fodder a gauss. Con 5.000 gauss
 podemos destruir 50 EDLM sin despeinarnos.
 
-Por ahora sube los GAUSS A 2K Y SUBE LOS LASERES PEQUES HASTA TENER 150K, con lo cual quedará que:
+Por ahora sube los GAUSS A 2K Y SUBE LOS LASERES PEQUES HASTA TENER 150K, con
+lo cual quedará que:
 
-LASER PEQUEÑO = 150K
-LANZACOHETES = 50K
-GAUSS = 2K
+LM=50K
+LP=150K
+GA=2K
 
 Como podemos tener mensuales un total de 100k de fodder... para llegar a los:
 
-LASER PEQEÑO = 400K
-LANZACOHETES = 100K
-GAUSS = 5K
+LM=100K
+LP=400K
+GA=5K
 
-TENEMOS QUE NOS FALTAN 3K DE GAUSS, 250 LASERES PEQUES Y 50K DE LANZACOHETES.
+TENEMOS QUE NOS FALTAN 3K DE GAUSS, 250K LP Y 50K LM.
 
 3K GAUSS TIENE UN EQUIVALENTE DE 65K DE LASERES PEQUE...
 
@@ -958,7 +954,8 @@ SILO NIVEL 9
 NANOS NIVEL 3
 BLINDAJE NIVEL 14
 
-Los puntos por mayor a manor importancia para defender una fortaleza de misiles son estos:
+Los puntos por mayor a manor importancia para defender una fortaleza de misiles
+son estos:
 
 -NANOS NIVEL 5
 -BLINDAJE NIVEL 15
@@ -973,7 +970,7 @@ saco... son trucos que nos salvan la vida...
 Con más de 200k de fodder, NANOS NIVEL 5, BLINDAJE NIVEL 15 y UN SILO NIVEL
 9-10... podemos vivir con tranquilidad... Con NANOS 5 un misil interceptor se
 hace en 27 segundos, por tanto los 100 interceptores los podemos reponer en 45
-minutos !!!!!!!!!!!!!!!!!
+minutos!
 
 El secreto es el siguiente: te haces una lista de las colonias misileras
 atacantes, anotas en una tabla las coordenadas de la colonia, las coordenadas
